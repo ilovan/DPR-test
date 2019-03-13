@@ -1,0 +1,6497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!-- "I shall never go back" - quote without quotation marks - resp PKP 
+  quotation marks at beginning of lg in Cry Ararat!
+  composition - alternative considered, [confirmation], cancelled with function word always showing
+  chnage meatmark so that more than one can point to the same seg. For now when there are 2 I treat them
+  like a <subst>
+  -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Manuscript notebook
+        </title>
+        <author>
+          P.K. Page
+        </author>
+        <respStmt>
+          <name>
+            Zailig Pollock 
+          </name>
+          <resp>
+            editor
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <title>
+            The Digital Page
+          </title>
+          is funded by the Social Science Humanities Council of Canada.
+          It is produced under the auspices of EMiC (Editing Modernism in Canada).
+        </p>
+        
+        <p>
+          © 2011. The copyright to 
+          <title>
+            The Digital Page
+          </title>
+          is owned by the P.K. Page Estate. 
+          <title>
+            The Digital Page
+          </title> is provided for free solely for
+          non-commercial use by students, scholars, and the public. Any commercial use or
+          publication of it, in whole or in part, without prior written authorization of
+          the copyright holders is strictly prohibited. 
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <msName>
+              PKP-1-12
+            </msName>
+          </msIdentifier>
+          <physDesc>
+            <handDesc>
+              <handNote xml:id="bla_i" medium="black ink"/>
+              <handNote xml:id="bla_i2" medium="black ink 2"/>
+              <handNote xml:id="bla_p" medium="black pencil"/>
+              <handNote xml:id="blu_i" medium="blue ink"/>
+              <handNote xml:id="blu_i2" medium="blue ink 2"/>
+              <handNote xml:id="blu_i3" medium="blue ink 3"/>
+              <handNote xml:id="grn_i" medium=" green ink"/>
+              <handNote xml:id="red_i" medium="red ink"/>
+              <handNote xml:id="red_p" medium="red pencil"/>
+              <handNote xml:id="ts" medium="typescript"/>
+            </handDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <listChange>
+          <change xml:id="A">
+            x
+          </change>
+          <change xml:id="B">
+           x
+          </change>
+          <change xml:id="C">
+            x
+          </change>
+          <change xml:id="D">
+            x
+          </change>
+          <change xml:id="E">
+            x
+          </change>
+          <change xml:id="F">
+           x
+          </change>
+          <change xml:id="G">
+           x
+          </change>
+        </listChange>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="PKP-1-12-1"/>
+        
+      <div n="1" type="part">
+        <head>
+          <subst change="#A" facs="PKP-1-12-1-1">
+            <del instant="true">
+              Par
+            </del>
+            <add/>
+          </subst>
+          <hi rend="caps">
+            Part III
+          </hi>
+        </head>
+        
+        <!--<msDesc>
+          <msIdentifier>
+            <msName>
+              PKP-1-12: 1
+            </msName>
+          </msIdentifier>
+          <physDesc>
+            <handDesc>
+              <handNote corresp="#ts"/>
+            </handDesc>
+          </physDesc>
+        </msDesc>-->
+        
+        <pb n="PKP-1-12-2"/>
+          
+        <div n="1.1" type="section">
+          <head>
+            The Permanent Tourists
+            <choice>
+              <orig>
+                .
+              </orig>
+              <reg/>
+            </choice>
+          </head>
+        
+          <!--<msDesc>
+            <msIdentifier>
+              <msName>
+                PKP-1-12: 2
+              </msName>
+            </msIdentifier>
+            <physDesc>
+              <handDesc>
+                <handNote corresp="#blu_i"/>
+              </handDesc>
+            </physDesc>
+          </msDesc>-->
+        
+          <pb n="PKP-1-12-3"/>
+          
+          <div n="1.1.1" type="poem" subtype="free" xml:id="PKP-1-12-1">
+            <head>
+              The Stenographers
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+            
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 3-4
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                After the brief bivouac of Sunday,
+              </l>
+              <l>
+                their eyes, in the forced march of Monday to Saturday,
+              </l>
+              <l>
+                hoist the white flag, flutter in the snow storm of paper,
+              </l>
+              <l>
+                haul it down and crack in the midsun of temper.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                In the pause between the first draft and the carbon
+              </l>
+              <l>
+                they glimpse the smooth hours when they were children
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg/>
+                </choice>
+              </l>
+              <l>
+                the ride in the ice-cart, the ice-man’s name,
+              </l>
+              <l>
+                the end of the route and the long 
+                <subst change="#A" facs="PKP-1-12-3-1">
+                  <del instant="true">
+                    wall
+                  </del>
+                  <add/>
+                </subst>
+                walk home;
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                <subst change="#A" facs="PKP-1-12-3-2">
+                  <del instant="true">
+                    remb
+                  </del>
+                  <add/>
+                </subst>
+                remember the sea where floats at high tide
+              </l>
+              <l>
+                were sea marrows growing on the scatter-green vine
+              </l>
+              <l>
+                or spools of grey toffee, or wasps’ nests on water;
+              </l>
+              <l>
+                remember the sand and the leaves of the country.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Bell rings and they go and the voice draws their pencil
+              </l>
+              <l>
+                like a sled across snow; when its runners are frozen
+              </l>
+              <l>
+                rope snaps and the voice then is pulling no burden
+              </l>
+              <l>
+                but runs like a dog on the winter of paper.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Their climates are winter and summer
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                no wind
+              </l>
+              <l>
+                for the kites of their hearts
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                no wind for a flight;
+              </l>
+              <l>
+                a breeze at the most, to tumble them over
+              </l>
+              <l>
+                and leave them like rubbish
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                the boy-friends of blood.
+              </l>
+            </lg>
+            
+            <pb n="PKP-1-12-4"/>
+            
+            <lg>
+              <l>
+                In the inch of the noon as they move they are stagnant.
+              </l>
+              <l>
+                The terrible calm of the noon is their anguish;
+              </l>
+              <l>
+                the lip of the counter, the shapes of the straws
+              </l>
+              <l>
+                like 
+                <choice>
+                  <sic>
+                    icycles
+                  </sic>
+                  <corr>
+                    icicles
+                  </corr>
+                </choice> 
+                breaking their tongues, are invaders.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Their beds are their oceans
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                salt water of weeping
+              </l>
+              <l>
+                the waves that they know
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                the tide before sleep;
+              </l>
+              <l>
+                and fighting to drown they assemble their sheep
+              </l>
+              <l>
+                <subst change="#A" facs="PKP-1-12-4-1">
+                <del instant="true">
+                  andd
+                </del>
+                <add/>
+              </subst>
+              in columns and watch them leap desks for their fences
+              </l>
+              <l>
+                and stare at them with their own mirror-worn faces.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                In the felt of the morning the calico-minded,
+              </l>
+              <l>
+                sufficiently starched, insert papers, hit keys,
+              </l>
+              <l>
+                efficient and sure as their adding machines;
+              </l>
+              <l>
+                yet 
+                <choice>
+                  <sic>
+                    the
+                  </sic>
+                  <corr>
+                    they
+                  </corr>
+                </choice> 
+                weep in the vault, they are taut as net curtains
+              </l>
+              <l>
+                stretched upon frames. In their eyes I have seen
+              </l>
+              <l>
+                the pin men of madness in marathon trim
+              </l>
+              <l>
+                race round the track of the stadium pupil.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-5"/>
+          
+          <div n="1.1.2" type="poem" subtype="free" xml:id="PKP-1-12-2">
+            <head>
+              Morning, Noon and Night
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+            
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 5-6
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#grn_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                The season of self-pity and of flowers
+              </l>
+              <l>
+                is here again
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              <l>
+                the fine-boned perilous girls
+              </l>
+              <l>
+                are sprigged with little bows
+              </l>
+              <l>
+                <subst change="#B" xml:id="PKP-1-12-5-A1">
+                  <del facs="PKP-1-12-5-1">
+                    oh hey ho no
+                  </del>
+                  <add facs="PKP-1-12-5-2"/>
+                </subst>
+              </l>
+              <l>
+                <subst change="#B" xml:id="PKP-1-12-5-A2">
+                  <del facs="PKP-1-12-5-3">
+                    of
+                  </del>
+                  <add facs="PKP-1-12-5-4">
+                    oh
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-5-A1 #PKP-1-12-5-A2"/> 
+                hey ho nonny.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                From their 
+                <subst change="#C">
+                  <del facs="PKP-1-12-5-5">
+                    hot
+                  </del>
+                  <add facs="PKP-1-12-5-6 PKP-1-12-5-7">
+                    moist
+                  </add>
+                </subst> 
+                sleep arising they are great
+              </l>
+              <l>
+                areas of hot skin and of heart;
+              </l>
+              <l>
+                trot and clip to work like ponies nobbed
+              </l>
+              <l>
+                with coloured bow and bobbin for the show
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              <l>
+                their hair in manes
+              </l>
+              <l>
+                and shaggy on their shins.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Dropped from some great height they flop at noon
+              </l>
+              <l>
+                <subst change="#A" facs="PKP-1-12-5-8">
+                  <del instant="true">
+                    k
+                  </del>
+                  <add/>
+                </subst>
+                liquid and lazy with the heat upon
+              </l>
+              <l>
+                the bright green grass beneath the trees, between
+              </l>
+              <l>
+                the 
+                <subst change="#A" facs="PKP-1-12-5-9">
+                  <del instant="true">
+                    gry
+                  </del>
+                  <add/>
+                </subst>
+                grey of 
+                <subst change="#A" facs="PKP-1-12-5-10">
+                  <del instant="true">
+                    o
+                  </del>
+                  <add/>
+                </subst>
+                public stone;
+              </l>
+              <l>
+                and hardly know their wish
+              </l>
+              <l>
+                and hardly guess
+              </l>
+              <l>
+                themselves as more than surface indolence.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Become at night like spikenard and stress
+              </l>
+              <l>
+                under the hunter’s green of hanging leaves;
+              </l>
+              <l>
+                among the flowering street lamps they are white
+              </l>
+              <l>
+                and wildly wandering and light
+              </l>
+              <l part="I">
+                lances 
+                <subst change="#A" facs="PKP-1-12-5-11">
+                  <del instant="true">
+                    ther
+                  </del>
+                  <add/>
+                </subst>
+                their pale and simple eyes.
+              </l>
+              <l part="F">
+                They move
+              </l>
+              
+              <pb n="PKP-1-12-6"/>
+              
+              <l>
+              caught up in eddying water
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              <l>
+                they are slow
+              </l>
+              <l>
+                and urgent and unknowable 
+                <subst change="#A" facs="PKP-1-12-6-1">
+                  <del instant="true">
+                    li
+                  </del>
+                  <add/>
+                </subst>
+                as moons.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-7"/>
+          
+          <div n="1.1.3" type="poem" subtype="quatrains" xml:id="PKP-1-12-3">
+            <head>
+              The 
+              <subst change="#A" facs="PKP-1-12-7-1">
+                <del instant="true">
+                  landlas
+                </del>
+                <add/>
+              </subst>
+              
+              <subst change="#D">
+                <del facs="PKP-1-12-7-2">
+                  <choice>
+                    <sic>
+                      landlady
+                    </sic>
+                    <corr>
+                      Landlady
+                    </corr>
+                  </choice>
+                </del>
+                <add facs="PKP-1-12-7-3">
+                  Landlady
+                </add>
+              </subst>
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+            
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 7-8
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#bla_p"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#blu_i2"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Through sepia air the 
+                <subst change="#B">
+                  <del facs="PKP-1-12-7-4">
+                    <choice>
+                      <sic>
+                        borders
+                      </sic>
+                      <corr>
+                        boarders
+                      </corr>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-7-5">
+                    boarders
+                  </add>
+                </subst> 
+                come and go,
+              </l>
+              <l>
+                impersonal as trains. Pass silently
+              </l>
+              <l>
+                the craving 
+                <subst change="#A" facs="PKP-1-12-7-6">
+                  <del instant="true">
+                    silv
+                  </del>
+                  <add/>
+                </subst>
+                silence swallowing her speech;
+              </l>
+              <l>
+                click doors like shutters on her camera eye.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                <subst change="#A" facs="PKP-1-12-7-7">
+                  <del instant="true">
+                    b
+                  </del>
+                  <add/>
+                </subst>
+                Because of her their lives become exact:
+              </l>
+              <l>
+                their entrances and exits are designed;
+              </l>
+              <l>
+                phone calls are cryptic. Oh, her ticklish ears
+              </l>
+              <l>
+                advance and fall back stunned.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Nothing is unprepared. They hold the walls
+              </l>
+              <l>
+                about them 
+                <subst change="#A" facs="PKP-1-12-7-8">
+                  <del instant="true">
+                    as
+                  </del>
+                  <add/>
+                </subst>
+                when they weep or laugh. Each face
+              </l>
+              <l>
+                is dialled to zero publicly. She peers
+              </l>
+              <l>
+                stippled with curious flesh;
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                pads on the patient landing like a pulse,
+              </l>
+              <l>
+                unlocks their keyholes with the wire of sight,
+              </l>
+              <l>
+                searches their rooms for clues when they are out,
+              </l>
+              <l>
+                <seg xml:id="PKP-1-12-7-meta1">
+                  pricks
+                </seg>
+                <metamark function="alternative_considered" target="#PKP-1-12-7-meta1">
+                   <subst change="#D">
+                      <del>
+                        <subst change="#B" facs="PKP-1-12-7-9 PKP-1-12-7-10">
+                          <del/>
+                          <add>
+                            smarts
+                            <desc>
+                              [alternative considered] 
+                            </desc>
+                          </add>
+                        </subst>
+                      </del>
+                     <add facs="PKP-1-12-7-11 PKP-1-12-7-12"/>
+                   </subst>
+                </metamark>
+                when they come home late.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Wonders when they are quiet, jumps when they move,
+              </l>
+              <l>
+                dreams that they dope or drink, trembles to know
+              </l>
+              <l>
+                the traffic of their brains, jaywalks their street
+              </l>
+              <l>
+                in clumsy shoes.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Yet knows them better than their closest friends:
+              </l>
+              <l>
+                their cupboards and the secrets of their drawers,
+              </l>
+              <l>
+                their books, their private mail, their 
+                <subst change="#A" facs="PKP-1-12-7-13">
+                  <del instant="true">
+                    phoo
+                  </del>
+                  <add/>
+                </subst>
+                photographs
+              </l>
+              <l>
+                are theirs and hers.
+              </l>
+            </lg>
+            
+            <pb n="PKP-1-12-8"/>
+            
+            <lg>
+              <l>
+                Knows when they wash, how frequently their clothes
+              </l>
+              <l>
+                go to the cleaners, what they like to eat,
+              </l>
+              <l>
+                their curvature of health, but even so
+              </l>
+              <l>
+                is not content.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And like 
+                <subst change="#D">
+                  <del facs="PKP-1-12-8-1">
+                    <choice>
+                      <sic>
+                        alover
+                      </sic>
+                      <corr>
+                        a lover
+                      </corr>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-8-2">
+                    a lover
+                  </add>
+                </subst> 
+                must know all, all, all.
+              </l>
+              <l>
+                Prays she may catch them unprepared at last
+              </l>
+              <l>
+                and palm the dreadful riddle of their skulls
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              <l>
+              hoping the worst.
+              </l>
+            </lg>
+            
+            <anchor xml:id="PKP-1-12-8-meta1"/>
+            <metamark function="history" target="#PKP-1-12-8-meta1">
+              <subst change="#D">
+                <del>
+                  <subst change="#B" facs="PKP-1-12-8-3">
+                    <del/>
+                    <add>
+                       Alan Yes—
+                      <desc>
+                        [history] 
+                      </desc>
+                     
+                    </add>
+                  </subst>
+                </del>
+                <add facs="PKP-1-12-8-4"/>
+              </subst>
+            </metamark>
+          </div>
+          
+          <pb n="PKP-1-12-9"/>
+          
+          <div n="1.1.4" type="poem" subtype="blank" xml:id="PKP-1-12-4">
+            <head>
+              Man With One Small Hand
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+            
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 9
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                One hand is smaller than the other. It
+            </l>
+              <l>
+                must always be loved a little like a child;
+              </l>
+              <l>
+                requires attention constantly, implies
+              </l>
+              <l>
+                it needs his frequent glance to nurture it.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                He holds it sometimes with the larger one
+              </l>
+              <l>
+                as adults lead a child across a street.
+              </l>
+              <l>
+                Finding it his and suddenly alien
+              </l>
+              <l>
+                rallies his interest and his sympathy.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Sometimes you come upon him unawares
+              </l>
+              <l>
+                just quietly staring at it where it lies
+              </l>
+              <l>
+                as mute and somehow perfect as a flower.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                But no. 
+                <choice>
+                  <sic>
+                    Itis
+                  </sic>
+                  <corr>
+                    It is
+                  </corr>
+                </choice> 
+                not perfect. He admits
+              </l>
+              <l>
+                it has its faults: it is not strong 
+                <subst change="#B">
+                  <del facs="PKP-1-12-9-1">
+                    <choice>
+                      <sic>
+                        nor
+                      </sic>
+                      <corr>
+                        or
+                      </corr>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-9-2">
+                    or
+                  </add>
+                </subst> 
+                quick.
+              </l>
+              <l>
+                At night it vanishes to reappear
+              </l>
+              <l>
+                in dreams full-size, lost or surrealist.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Yet has its place like memory or a dog
+                <subst change="#A" facs="PKP-1-12-9-3">
+                  <del instant="true">
+                    -2
+                  </del>
+                  <add/>
+                </subst>
+                <choice>
+              <orig>
+              --
+              </orig>
+              <reg>
+                —
+              </reg>
+              </choice>
+              </l>
+              
+              <l>
+                is never 
+                <subst change="#A" facs="PKP-1-12-9-4">
+                  <del instant="true">
+                    completl
+                  </del>
+                  <add/>
+                </subst>
+                completely out of mind
+              <choice>
+              <orig>
+              --
+              </orig>
+              <reg>
+                —
+              </reg>
+              </choice>
+              a rod
+              </l>
+              <l>
+                to measure all uncertainties against.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Perhaps he loves it too much, sets too much stock
+              </l>
+              <l>
+                simply in its 
+                <subst change="#A" facs="PKP-1-12-9-5">
+                  <del instant="true">
+                    exci
+                  </del>
+                  <add/>
+                </subst>
+                existence. Ah, but look!
+              </l>
+              <l>
+                It has its magic. See how it will fit
+              </l>
+              <l>
+                so sweetly, sweetly, in the infant’s glove.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-10"/>
+          
+          <div n="1.1.5" type="poem" subtype="quatrains" xml:id="PKP-1-12-5">
+            <head>
+              Probationer
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+            
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 10-11
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Floats out of anaesthetic
+              </l>
+              <l>
+                helium-hipped
+              </l>
+              <l>
+                a bird a bride your breath could bruise,
+              </l>
+              <l>
+                is blurred.
+              </l>
+            </lg>
+             
+            <lg>
+              <l>
+                Re-forms in bright enamel, tiny, chips
+              </l>
+              <l>
+                into recurring selves
+              </l>
+              <l>
+                a hundred of her
+              </l>
+              <l>
+                giving you smiles and small white pills of water.
+              </l>
+            </lg>
+             
+            <lg>
+              <l>
+                Grows in delirium as striped and strange
+              </l>
+              <l>
+                as any tiger crouching in the flowers.
+              </l>
+              <l>
+                <subst change="#A" facs="PKP-1-12-10-1">
+                  <del>
+                    h
+                  </del>
+                  <add/>
+                </subst>
+                Her metal finger tip
+              </l>
+              <l>
+                taps out your pulse.
+              </l>
+            </lg>
+             
+            <lg>
+              <l>
+                Intrinsic to your pain
+              </l>
+              <l>
+                lives in its acre
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              <l>
+              is only there  
+                <subst change="#A" facs="PKP-1-12-10-2">
+                  <del instant="true">
+                    becaux
+                  </del>
+                  <add/> 
+                </subst> 
+                because your wound has made her.
+              </l>
+              <l>
+                Beyond its radius she has never been.
+              </l>
+            </lg>
+             
+            <lg>
+              <l>
+                Is sly and clever suddenly, creates
+              </l>
+              <l>
+                you wholly out of sheets and air
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                full-grown.
+              </l>
+              <l>
+                Most wonderfully makes a halo of your hair.
+              </l>
+              <l>
+                Gives you a 
+                <subst change="#A" facs="PKP-1-12-10-3">
+                  <del>
+                    <gap reason="cancellation" quantity="4" unit="chars"/>††††
+                  </del>
+                  <add>
+                    name
+                  </add>
+                </subst>
+                : your own.
+              </l>
+            </lg>
+               
+            <lg>
+              <l>
+                <subst change="#B">
+                  <del facs="PKP-1-12-10-4">
+                    Oh,
+                  </del>
+                  <add facs="PKP-1-12-10-5">
+                    Or
+                  </add>
+                </subst> 
+                in the easy mornings comes with smiles,
+              </l>
+              <l>
+                tipping the window so it spills the sun
+              </l>
+              <l>
+                carries the basin plastic with slipping water
+              </l>
+              <l>
+                and calls it fun.
+              </l>
+            </lg>
+            
+            <pb n="PKP-1-12-11"/>
+            
+            <lg>
+              <l>
+                For she is only a girl and crisis over
+              </l>
+              <l>
+                she is herself again
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                clumsy and gauche,
+              </l>
+              <l>
+                her jokes too hearty
+              </l>
+              <l>
+                and her touch too rough.
+              </l>
+            </lg>
+             
+            <lg>
+              <l>
+                And by a slow dissolve
+              </l>
+              <l>
+                becomes at last,
+              </l>
+              <l>
+                someone you’ve always known
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              <l>
+                yourself perhaps.
+              </l>
+            </lg>
+             
+            <lg>
+              <l>
+                Yet alters when you leave. From her stiff starch
+              </l>
+              <l>
+                she overflows in laughs, is proud and shy
+              </l>
+              <l>
+                and as if you are a present she has made,
+              </l>
+              <l>
+                she gives you away.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-12"/>
+          
+          <div n="1.1.6" type="poem" subtype="quintains" xml:id="PKP-1-12-6">
+            <head>
+              The Permanent Tourists
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 12-13
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#red_i"/>
+                  <handNote corresp="#blu_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Somnolent through landscapes and by trees
+              </l>
+              <l>
+                nondescript, almost anonymous,
+              </l>
+              <l>
+                they alter as they enter foreign cities
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                the 
+                <subst change="#A" facs="PKP-1-12-12-1">
+                  <del instant="true">
+                    tr
+                  </del>
+                  <add/>
+                </subst>
+                terrible tourists with their empty eyes
+              </l>
+              <l>
+                longing to be filled with monuments.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Verge upon statues in the public squares
+              </l>
+              <l>
+                remembering the promise of memorials
+              </l>
+              <l>
+                yet never enter the entire event
+              </l>
+              <l>
+                as dogs, abroad in any kind of weather,
+              </l>
+              <l>
+                move perfectly within their rainy climate.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Lock themselves into snapshots on the steps
+              </l>
+              <l>
+                of monolithic bronze as if 
+                <subst change="#A" facs="PKP-1-12-12-2">
+                  <del instant="true">
+                    sa
+                  </del>
+                  <add/>
+                </subst>
+                suspecting
+              </l>
+              <l>
+                the subtle mourning of the photograph
+              </l>
+              <l>
+                might later conjure in the memory
+              </l>
+              <l>
+                all they are now incapable of feeling.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And 
+                <subst change="#C" xml:id="PKP-1-12-12-A1">
+                  <del facs="PKP-1-12-12-3">
+                    track
+                  </del>
+                  <add facs="PKP-1-12-12-4 PKP-1-12-12-5">
+                    search
+                  </add>
+                </subst> 
+                all heroes 
+                <subst change="#C" xml:id="PKP-1-12-12-A2">
+                  <del facs="PKP-1-12-12-6">
+                    down
+                  </del>
+                  <add facs="PKP-1-12-12-7 PKP-1-12-12-8">
+                    out
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-12-A1 #PKP-1-12-12-A2"/>
+                : the boy who gave
+              </l>
+              <l>
+                his life to save a town; the stolid queen;
+              </l>
+              <l>
+                forgotten politicians minus names
+              </l>
+              <l>
+                and the plunging war dead, permanently brave,
+              </l>
+              <l>
+                forever and ever going down to death.
+              </l>
+            </lg>
+            
+            <pb n="PKP-1-12-13"/>
+            
+            <lg>
+              <l>
+              Look, you can see them nude in any 
+                <choice>
+                  <orig>
+                    cafe
+                  </orig>
+                  <reg>
+                    café
+                  </reg>
+                </choice>
+              </l>
+              <l>
+                reading their histories from the bill of fare,
+              </l>
+              <l>
+                creating futures from a foreign teacup.
+              </l>
+              <l>
+                Philosophies like ferns bloom from the fable
+              </l>
+              <l>
+                that travel is broadening at the 
+                <choice>
+                  <orig>
+                    cafe
+                  </orig>
+                  <reg>
+                    café
+                  </reg>
+                </choice> 
+                table.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Yet somehow beautiful, they stamp the plaza.
+              </l>
+              <l>
+                Classic in their anxiety they call
+              </l>
+              <l>
+                all sculptured immemorial stone
+              </l>
+              <l>
+                into their 
+                <subst change="#B" xml:id="PKP-1-12-A1">
+                  <del facs="PKP-1-12-13-1">
+                    placid
+                  </del>
+                  <add facs="PKP-1-12-13-2 PKP-1-12-13-3">
+                    passive
+                  </add>
+                </subst> 
+                eyes, as 
+                <subst change="#B" xml:id="PKP-1-12-A2">
+                  <del facs="PKP-1-12-13-4">
+                    placid 
+                  </del>
+                  <add facs="PKP-1-12-13-5"/>
+                </subst>
+                rivers
+              </l>
+              <l>
+                <subst change="#B" xml:id="PKP-1-12-A3">
+                  <del facs="PKP-1-12-13-6">
+                    are always calling to the 
+                  </del>
+                  <add facs="PKP-1-12-13-7 PKP-1-12-13-8">
+                    draw 
+                  </add>
+                </subst>
+                
+               <subst change="#B" xml:id="PKP-1-12-A4">
+                  <del facs="PKP-1-12-13-9">
+                    ruined columns
+                  </del>
+                  <add facs="PKP-1-12-13-7 PKP-1-12-13-10">
+                    ruined columns
+                  </add>
+                </subst>
+                
+              <subst change="#B" xml:id="PKP-1-12-A5" facs="PKP-1-12-13-11">
+                  <del/>
+                  <add> 
+                    to their placid glass
+                  </add>
+                </subst>
+                
+                <subst change="#B" xml:id="PKP-1-12-A6">
+                  <del facs="PKP-1-12-13-12">
+                    .
+                  </del>
+                  <add facs="PKP-1-12-13-7 PKP-1-12-13-13">
+                    .
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-A1 #PKP-1-12-A2 #PKP-1-12-A3 #PKP-1-12-A4 #PKP-1-12-A5 #PKP-1-12-A6"/>
+              </l>
+              <anchor xml:id="PKP-1-12-13-meta1"/>
+              <metamark function="alternative_considered" target="#PKP-1-12-13-meta1">
+                <subst change="#C" facs="PKP-1-12-13-14 PKP-1-12-13-15">
+                  <del/>
+                  <add>
+                    rewrite
+                    <desc>
+                      [alternative considered] 
+                    </desc>
+                  </add>
+                </subst>
+              </metamark>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-14"/>
+          
+          <div n="1.1.7" type="poem" subtype="free" xml:id="PKP-1-12-7">
+            <head>
+              Journey Home
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 14-15
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#bla_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Certainly there had been nothing but the extraordinary rain for a 
+                <lb/>
+                long time
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                nothing but the rain, the 
+                <subst change="#A" facs="PKP-1-12-14-1">
+                  <del instant="true">
+                    gry
+                  </del>
+                  <add/>
+                </subst>
+                grey buildings, the grey snow,
+              </l>
+              <l>
+                when landscape broke the lens and 
+                <subst change="#B">
+                  <del facs="PKP-1-12-14-2">
+                    <choice>
+                      <sic>
+                        sw
+                        <gap reason="cancellation" quantity="2" unit="chars"/>††
+                        ked
+                      </sic>
+                      <corr>
+                        smacked
+                      </corr>
+                    </choice>
+                  </del>
+                <add facs="PKP-1-12-14-3">
+                  smacked
+                </add>
+                </subst> 
+              his face
+              </l>
+              <l>
+                with a flag of blue
+              </l>
+              <l>
+                and the white thunder of snow
+              </l>
+              <l>
+                rolling the hills.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Hurry was in his veins;
+              </l>
+              <l>
+                violence 
+                <subst change="#B">
+                  <del facs="PKP-1-12-14-4">
+                    <gap reason="cancellation" quantity="2" unit="chars"/>††
+                    ulted
+                  </del>
+                  <add facs="PKP-1-12-14-5">
+                    vaulted
+                  </add>
+                </subst> 
+                the loose-box of his head;
+              </l>
+              <l>
+                hurry was hot in the straw
+              </l>
+              <l>
+                and snapped in the eyes
+              </l>
+              <l>
+                of the innocent traveller.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And flex and flux were there
+              </l>
+              <l>
+                like acrobats
+              </l>
+              <l>
+                waving their banners.
+              </l>
+              <l>
+                So declamatory was his blood
+              </l>
+              <l>
+                that he owned the train;
+              </l>
+              <l>
+                its whistle was in his 
+                <subst change="#A" facs="PKP-1-12-14-6">
+                  <del instant="true">
+                    tro
+                  </del>
+                  <add/>
+                </subst>
+                throat,
+              </l>
+              <l>
+                its wheels in his brain.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Once he became a panoramic view,
+              </l>
+              <l>
+                the white of the valleys and hills
+              </l>
+              <l>
+                his own still flesh.
+              </l>
+              <l>
+                But speed 
+                <subst change="#B">
+                  <del facs="PKP-1-12-14-7">
+                    reformed
+                  </del>
+                  <add facs="PKP-1-12-14-8">
+                    re-formed
+                  </add>
+                </subst> 
+                him
+              </l>
+              <l>
+                he was forced to change
+              </l>
+              <l>
+                his contours and his outlook and his range.
+              </l>
+              <l>
+                Rushing through forest he was dark again
+              </l>
+              <l>
+                and the great coniferous branches brushed his face.
+              </l>
+              
+              <pb n="PKP-1-12-15"/>
+              
+              <l>
+              Rabbit spoor resembled his memory
+              </l>
+              <l>
+                of what he once had been
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              faint against faintness,
+              </l>
+              <l>
+                definite as dust,
+              </l>
+              <l>
+                of the no-taste of wafers, of the warmth
+              </l>
+              <l>
+                that neither gives nor takes.
+              </l>
+              <l>
+                Past was a pastel rubbed as he hurried past.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And now that the tunnel of trees was done, his eyes
+              </l>
+              <l>
+                sprinted the plain where house lights in the dusk
+              </l>
+              <l>
+                fired pistols for the race that led him on.
+              </l>
+              <l>
+                He shed the train like a snake its 
+                <subst change="#A" facs="PKP-1-12-15-1">
+                  <del instant="true">
+                    k
+                  </del>
+                  <add/>
+                </subst>
+                skin; he dodged
+              </l>
+              <l>
+                the waiting camera which with a simple click
+              </l>
+              <l>
+                could hold him fast to the spot beside the track.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And as the air inflated his lungs he stood
+              </l>
+              <l>
+                there in the dark at his destination knowing
+              </l>
+              <l>
+                somewhere
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              to left? to right?
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              he was walking home
+              </l>
+              <l>
+                and his shoulders were light and white as though wings were growing.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-16"/>
+          
+          <div n="1.1.8" type="poem" subtype="free" xml:id="PKP-1-12-8">
+            <head>
+              <seg xml:id="PKP-1-12-16meta1">
+                <subst change="#B" xml:id="PKP-1-12-8-A1">
+                  <del facs="PKP-1-12-16-1">
+                    <hi rend="caps">
+                      Green Little Corn
+                    </hi>
+                    <choice>
+                      <orig>
+                        .
+                      </orig>
+                      <reg/>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-16-2"/>
+                </subst>
+              </seg>
+              <metamark function="alternative_considered" target="#PKP-1-12-16meta1">
+                <subst change="#B" facs="PKP-1-12-16-3" xml:id="PKP-1-12-8-A2">
+                  <del/>
+                  <add>
+                    Title—
+                    <desc>
+                      [alternative considered] 
+                    </desc>
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-8-A1 #PKP-1-12-8-A2"/>
+              </metamark>
+              
+              <subst change="#C" facs="PKP-1-12-16-4">
+                <del/>
+                <add>
+                  The Tall Suns
+                  <choice>
+                    <orig>
+                      —
+                    </orig>
+                    <reg/>
+                  </choice>
+                </add>
+              </subst>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 16-17
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_1"/>
+                  <handNote corresp="#blu_2"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                This windy season
+              </l>
+              <l>
+                blows your springtime in.
+              </l>
+              <l>
+                Brings in a swirl of green
+              </l>
+              <l>
+                your embroidered self:
+              </l>
+              <l>
+                tall suns and sunflowers
+              </l>
+              <l>
+                spin upon a string.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                You walked from that high building
+              </l>
+              <l>
+                but its shape
+              </l>
+              <l>
+                would not release you.
+              </l>
+              <l>
+                You were a high queen
+              </l>
+              <l>
+                high-stepping, carrying
+              </l>
+              <l>
+                a stone 
+                <subst change="#B">
+                  <del facs="PKP-1-12-16-5">
+                    <choice>
+                      <sic>
+                        mountian
+                      </sic>
+                      <corr>
+                        mountain
+                      </corr>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-16-6">
+                    mountain
+                  </add>
+                </subst> 
+                as if it were a cape.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And you spoke only of darkness
+              </l>
+              <l>
+                out of your tomb with swans.
+              </l>
+              <l>
+                Dead men regarded you
+              </l>
+              <l>
+                yet I could not believe
+              </l>
+              <l>
+                so dark a night was spawning
+              </l>
+              <l>
+                in a mouth red as a dog’s yawn.
+              </l>
+            </lg>
+              
+              <lg>
+              <l>
+                Nor could I believe
+              </l>
+              <l>
+                the slow tides of your blood
+              </l>
+              <l>
+                pulling black and silver
+              </l>
+              <l>
+                beneath a watery moon
+              </l>
+              <l>
+                had flooded you with mermen.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                For all your brass
+              </l>
+              <l>
+                reflected the tall suns
+              </l>
+              <l>
+                of the season of green corn
+              </l>
+              
+              <pb n="PKP-1-12-17"/>
+              
+              <l>
+              and I saw above your battlements of stone
+              </l>
+              <l>
+                Orion
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              <l>
+                glittering scabbard at his groin.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-18"/>
+          
+          <div n="1.1.9" type="poem" subtype="free" xml:id="PKP-1-12-9">
+            <head>
+              Mineral
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 18
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Soft and unmuscular among 
+                <subst change="#B" facs="PKP-1-12-18-1 PKP-1-12-18-2">
+                  <del/>
+                  <add>
+                    the 
+                  </add>
+                </subst>
+                flowers and papers
+              </l>
+              <l>
+                and changed as if grown deaf or slightly lame
+              </l>
+              <l>
+                she writes to strangers about him as 
+                <subst change="#A" facs="PKP-1-12-18-3">
+                  <del instant="true">
+                    f
+                  </del>
+                  <add/>
+                </subst>
+                if he were a stranger,
+              </l>
+              <l>
+                avoids the name
+              </l>
+              <l>
+                which he no longer has a use for, which
+              </l>
+              <l>
+                he disinherited as he was leaving.
+              </l>
+              <l>
+                If had a 
+                <subst change="#A" facs="PKP-1-12-18-4">
+                  <del instant="true">
+                    differa
+                  </del>
+                  <add/>
+                </subst>
+                different ring when he was living.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Now 
+                <subst change="#A" facs="PKP-1-12-18-5">
+                  <del instant="true">
+                    I
+                  </del>
+                  <add/>
+                </subst>
+                he is mineral to her. In a game
+              </l>
+              <l>
+                she would declare him mineral without thinking.
+              </l>
+              <l>
+                Mineral his going and his having gone
+              </l>
+              <l>
+                and on her desk, his photo
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                mineral.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                No gentle mirage loves her as a dream
+              </l>
+              <l>
+                can love a person’s head, no memory
+              </l>
+              <l>
+                comes warm and willing to her tears. She walks
+              </l>
+              <l>
+                nearly begonia between the walls,
+              </l>
+              <l>
+                calls out against an echo. Nothing’s real
+              </l>
+              <l>
+                but mineral: cold touch, sharp taste of it
+                <subst change="#B">
+                  <del facs="PKP-1-12-18-6">
+                    ,
+                  </del>
+                  <add facs="PKP-1-12-18-7"/>
+                </subst>
+              </l>
+              <l>
+                lodger forever in her routed house.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-19"/>
+          
+          <div n="1.1.10" type="poem" subtype="free" xml:id="PKP-1-12-10">
+            <head>
+              <subst change="#D" xml:id="PKP-1-12-19-A1">
+                <del facs="PKP-1-12-19-1">
+                  Spring
+                </del>
+                <add facs="PKP-1-12-19-2 PKP-1-12-19-3">
+                  Now This Old Man
+                </add>
+              </subst>
+              <subst change="#D" xml:id="PKP-1-12-19-A2">
+                <del facs="PKP-1-12-19-4">
+                  <choice>
+                    <orig>
+                      .
+                    </orig>
+                    <reg/>
+                  </choice>
+                </del>
+                <add facs="PKP-1-12-19-2 PKP-1-12-19-5">
+                  <choice>
+                    <orig>
+                      .
+                    </orig>
+                    <reg/>
+                  </choice>
+                </add>
+              </subst>
+              <substJoin target="#PKP-1-12-19-A1 #PKP-1-12-19-A2"/>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 19
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#bla_i"/>
+                  <handNote corresp="#gr_i"/>
+                  <handNote corresp="#blu_2"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Now this cold man in his garden feels the ice
+              </l>
+              <l>
+                thawing from branches of his lungs and brain;
+              </l>
+              <l>
+                <subst change="#C" xml:id="PKP-1-12-19-C1">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-B1">
+                      <del facs="PKP-1-12-19-6">
+                        the 
+                      </del>
+                      <add facs="PKP-1-12-19-7"/>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-8">
+                    the 
+                  </add>
+                </subst>
+                blood thins out in artery and vein,
+              </l>
+              <l>
+                <subst change="#C" xml:id="PKP-1-12-19-C2">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-B2">
+                      <del facs="PKP-1-12-19-9">
+                        the 
+                      </del>
+                      <add facs="PKP-1-12-19-10"/>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-11">
+                    the 
+                  </add>
+                </subst>
+                stiff eyes slip again.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Kneeling in welters of narcissus his
+              </l>
+              <l>
+                dry creaking joints bend with a dancer’s ease,
+              </l>
+              <l>
+                <subst change="#C" xml:id="PKP-1-12-19-C3">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-B3">
+                      <del facs="PKP-1-12-19-12">
+                        the 
+                      </del>
+                      <add facs="PKP-1-12-19-13"/>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-14">
+                    the 
+                  </add>
+                </subst>
+                roughened skin softens beneath 
+                <seg xml:id="PKP-1-12-19-meta1">
+                  <subst change="#B" xml:id="PKP-1-12-19-B4">
+                    <del facs="PKP-1-12-19-15">
+                      the 
+                    </del>
+                    <add facs="PKP-1-12-19-16"/>
+                  </subst>
+                  <substJoin target="#PKP-1-12-19-B1 #PKP-1-12-19-B2 #PKP-1-12-19-B3 #PKP-1-12-19-B4"/>
+                  <substJoin target="#PKP-1-12-19-C1 #PKP-1-12-19-C2 #PKP-1-12-19-C3 "/>
+                </seg>
+                <metamark function="confirmation" target="#PKP-1-12-19-meta1">
+                  <subst change="#C" facs="PKP-1-12-19-17">
+                    <del/>
+                    <add>
+                      <desc>
+                        [confirmation]
+                      </desc>
+                    </add>
+                  </subst>
+                </metamark>
+                <subst change="#D" facs="PKP-1-12-19-18">
+                  <del/>
+                  <add>
+                    the 
+                  </add>
+                </subst>
+                rain
+                <subst change="#B" facs="PKP-1-12-19-19">
+                  <del/>
+                  <add>
+                    ;
+                  </add>
+                </subst>
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                and all that he had clutched, held tightly locked
+              </l>
+              <l>
+                behind the fossil frame
+              </l>
+              <l>
+                dissolves, flows free
+              </l>
+              <l>
+                in saffron covering the willow tree
+              </l>
+              <l>
+                and coloured rivers of the rockery.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                <subst change="#D" xml:id="PKP-1-12-19-E1">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-D1">
+                      <del facs="PKP-1-12-19-20">
+                        Yellow 
+                      </del>
+                      <add facs="PKP-1-12-19-22">
+                        His breath is yellow 
+                      </add>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-21 PKP-1-12-19-22a">
+                    Yellow 
+                  </add>
+                </subst>
+                
+                <subst change="#D" xml:id="PKP-1-12-19-E2">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-D2">
+                      <del facs="PKP-1-12-19-23">
+                        and white 
+                      </del>
+                      <add facs="PKP-1-12-19-23a"/>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-24">
+                    &amp; white 
+                  </add>
+                </subst>
+                
+                <subst change="#D" xml:id="PKP-1-12-19-E3">
+                  <del facs="PKP-1-12-19-25">
+                    and purple 
+                  </del>
+                  <add facs="PKP-1-12-19-21 PKP-1-12-19-26">
+                    &amp; purple 
+                  </add>
+                </subst>
+                
+                <subst change="#D" xml:id="PKP-1-12-19-E4">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-D3">
+                      <del facs="PKP-1-12-19-27">
+                        is his breath
+                      </del>
+                      <add facs="PKP-1-12-19-27a"/>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-28">
+                    is his breath
+                  </add>
+                </subst>
+                
+                <subst change="#D" xml:id="PKP-1-12-19-E5">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-D4">
+                      <del facs="PKP-1-12-19-29">
+                        ,
+                      </del>
+                      <add facs="PKP-1-12-19-27a"/>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-30">
+                    <choice>
+                      <sic/>
+                      <corr>
+                        ,
+                      </corr>
+                    </choice>
+                  </add>
+                </subst>
+                
+                <subst change="#D" xml:id="PKP-1-12-19-E6">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-D5" facs="PKP-1-12-19-31">
+                      <del/>
+                      <add> 
+                        &amp; his hands
+                      </add>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-21"/>
+                </subst>
+              </l>
+              <l>
+                <subst change="#D" xml:id="PKP-1-12-19-E7">
+                  <del>
+                    <subst change="#B" xml:id="PKP-1-12-19-D6">
+                      <del facs="PKP-1-12-19-32">
+                        his hands 
+                      </del>
+                      <add facs="PKP-1-12-19-33"/>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-19-34">
+                    his hands 
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-19-D1 #PKP-1-12-19-D2 #PKP-1-12-19-D3 #PKP-1-12-19-D4 #PKP-1-12-19-D5 #PKP-1-12-19-D6"/>
+                <substJoin target="#PKP-1-12-19-E1 #PKP-1-12-19-E2 #PKP-1-12-19-E3 #PKP-1-12-19-E4 #PKP-1-12-19-E5 #PKP-1-12-19-E6 #PKP-1-12-19-E7"/>
+                are curved and cool for cupping petals,
+              </l>
+              <l>
+                the sharp green shoots emerging from the beds
+              </l>
+              <l>
+                all whistle for him
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                until he is the garden
+                <subst change="#A">
+                  <del facs="PKP-1-12-19-35">
+                    ,
+                  </del>
+                  <add facs="PKP-1-12-19-36">
+                    ;
+                  </add>
+                </subst>
+                heart, the sun
+              </l>
+              <l>
+                until he is the garden; heart, the sun
+              </l>
+              <l>
+                and all his body soil;
+              </l>
+              <l>
+                glistening jonquils blossom from his skull,
+              </l>
+              <l>
+                the bright expanse of lawn his stretching thighs
+              </l>
+              <l>
+                and something rare and perfect, yet unknown,
+              </l>
+              <l>
+                stirs like a foetus just behind his eyes.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-20"/>
+          
+          <div n="1.1.11" type="poem" subtype="free" xml:id="PKP-1-12-11">
+            <head>
+              <hi rend="underline">
+                The Knitters
+              </hi>
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+            <!--<ab type="dedication">
+              <subst change="#D" facs="PKP-1-12-20-1">
+                <del/>
+                <add>
+                  (for Alice 
+                  <choice>
+                    <orig>
+                      &amp;
+                    </orig>
+                    <reg>
+                      and
+                    </reg>
+                  </choice> 
+                  Sheila
+                  <choice>
+                    <orig>
+                      .
+                    </orig>
+                    <reg/>
+                  </choice>
+                </add>
+              </subst>
+            </ab>-->
+            
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 20-21
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#red_p"/>
+                  <handNote corresp="#blu_i2"/>
+                  <handNote corresp="#grn_i"/>
+                  <handNote corresp="#bla_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                These women knitting knit a kind of mist
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                climate of labyrinth
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                into the air.
+              </l>
+              <l>
+                Sitting like sleepers,
+              </l>
+              <l>
+                propped against the chintz,
+              </l>
+              <l>
+                pin-headed somehow
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              figures by Moore
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              <l>
+                arachnes in their webs, they barely 
+                <subst change="#A" facs="PKP-1-12-20-2">
+                  <del instant="true">
+                    stire.
+                  </del>
+                  <add/>
+                </subst>
+                stir.
+                <subst change="#D" xml:id="PKP-1-12-20-A1" facs="PKP-1-12-20-3">
+                  <del/>
+                  <add>
+                    …
+                  </add>
+                </subst>
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                <subst change="#D" xml:id="PKP-1-12-20-A2">
+                  <del facs="PKP-1-12-20-4">
+                    Except
+                  </del>
+                  <add facs="PKP-1-12-20-5">
+                    except
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-20-A1 #PKP-1-12-20-A2"/> 
+                their eyes and hands
+                <subst change="#C">
+                  <del facs="PKP-1-12-20-6"> 
+                    are
+                  </del>
+                  <add facs="PKP-1-12-20-7 PKP-1-12-20-8 PKP-1-12-20-9">
+                    , which
+                  </add>
+                </subst> 
+                wired to some
+              </l>
+              <l>
+                urgent personal circuit,
+              </l>
+              <l>
+                move as if
+              </l>
+              <l>
+                a switch controlled them.
+              </l>
+              <l>
+                Hear the click and hum
+              </l>
+              <l>
+                as their machines translating hieroglyphs,
+              </l>
+              <l>
+                compulsive and monotonous, consume
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                lozenge and hank
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              the candy-coloured stuff.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                See two observe the ceremony of skeins:
+              </l>
+              <l>
+                one, forearms raised,
+              </l>
+              <l>
+                the loops around her palms,
+              </l>
+              <l>
+                catscradle rocks, is metronome, becalmed;
+              </l>
+              <l>
+                while her companion
+              </l>
+              <l>
+                spun from her as from
+              </l>
+              <l>
+                a wooden spindle, winds a 
+                <subst change="#A" facs="PKP-1-12-20-10">
+                  <del instant="true">
+                    woolen
+                  </del>
+                  <add/>
+                </subst>
+                woollen world.
+              </l>
+            </lg>
+            
+            <pb n="PKP-1-12-21"/>
+            
+            <lg>
+              <l>
+                A man rings like an axe, is alien,
+                <subst change="#A" facs="PKP-1-12-21-1">
+                  <del instant="true">
+                    impr
+                  </del>
+                  <add/>
+                </subst>
+              </l>
+              <l>
+                imperilled by them,
+              </l>
+              <l>
+                finds them cold and far.
+              </l>
+              <l>
+                They count their stitches on a female star
+              </l>
+              <l>
+                and speak another language,
+              </l>
+              <l>
+                are not kin.
+              </l>
+              <l>
+                Or is he Theseus remembering
+              </l>
+              <l>
+                that maze, those daedal ways, the Minotaur?
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                They knit him out, the wool grows thick and fills
+              </l>
+              <l>
+                the room they sit in like a fur
+              </l>
+              <l>
+                as vegetable more than animal,
+              </l>
+              <l>
+                <seg xml:id="PKP-1-12-21-meta1">
+                  surrealist and slightly sinister,
+                </seg>
+                <metamark function="deletion_considered" target="#PKP-1-12-21-meta1">
+                  <subst change="#E">
+                    <del>
+                      <subst change="#D" facs="PKP-1-12-21-2 PKP-1-12-21-4">
+                        <del/>
+                        <add>
+                          <desc>
+                            [deletion considered]
+                          </desc>
+                        </add>
+                      </subst>
+                    </del>
+                    <add facs="PKP-1-12-21-5 PKP-1-12-21-6"/>
+                  </subst>
+                </metamark>
+              </l>
+              <l>
+                driven by motors strong beyond their wills,
+              </l>
+              <l>
+                these milky plants devour
+              </l>
+              <l>
+                more hanks of 
+                <subst change="#A" facs="PKP-1-12-21-7">
+                  <del instant="true">
+                    wooo
+                  </del>
+                  <add/>
+                </subst>
+                wool, more cubic feet of air.
+              </l>
+            </lg>
+            <anchor xml:id="PKP-1-12-21-meta2"/>
+            <metamark function="history" target="#PKP-1-12-21-meta2">
+                <subst change="#F" facs="PKP-1-12-21-9">
+                  <del>
+                    <subst change="#B" facs="PKP-1-12-21-8">
+                    <del/>
+                    <add>
+                      Alan—Yes.
+                      <desc>
+                        [history] 
+                      </desc>
+                    </add>
+                  </subst>
+                  </del>
+                  <add/>
+                </subst>
+              </metamark>
+          </div>
+          
+          <pb n="PKP-1-12-22"/>
+          
+          <div n="1.1.12" type="poem" subtype="blank" xml:id="PKP-1-12-12">
+            <head>
+              Portrait of Marina
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 22-24
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <div n="1.1.12.1" type="subsection">
+              <lg>
+                <l>
+                  Far out the sea has never moved. It is
+                </l>
+                <l>
+                  prussian forever, rough as teazled wool
+                </l>
+                <l>
+                  some antique skipper worked into a frame
+                </l>
+                <l part="I">
+                  to bear his lost four-master.
+                </l>
+                <l part="F">
+                  Where it hangs
+                </l>
+                <l>
+                  now in a sunny parlour, none recalls
+                </l>
+                <l>
+                  how all his stitches, interspersed with oaths
+                </l>
+                <l>
+                  had made 
+                  <subst change="#A" facs="PKP-1-12-22-1">
+                    <del instant="true">
+                      n
+                    </del>
+                    <add/>
+                  </subst>
+                  his one pale 
+                  <subst change="#A" facs="PKP-1-12-22-2">
+                    <del instant="true">
+                      da
+                    </del>
+                    <add/>
+                  </subst>
+                  daughter grow
+                </l>
+                <l>
+                  transparent with migraines
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                and how his call
+                </l>
+                <l part="I">
+                  fretted her more than waves.
+                </l>
+                <l part="F">
+                  Her name
+                </l>
+                <l>
+                  Marina, for his youthful wish
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                </l>
+                
+                <l>
+                  boomed at the font of that small salty church
+                </l>
+                <l>
+                  where sailors lurched like drunkards, would, he felt
+                </l>
+                <l>
+                  make her a water woman, rich with bells.
+                </l>
+                <l>
+                  To her the name Marina simply meant
+                </l>
+                <l>
+                  he held 
+                  <subst change="#A" facs="PKP-1-12-22-3">
+                    <del instant="true">
+                      hh
+                    </del>
+                    <add/>
+                  </subst>
+                  his furious needle for her thin
+                </l>
+                <l>
+                  fingers to thread again with more blue wool
+                </l>
+                <l>
+                  to sew the ocean of his memory.
+                </l>
+                <l>
+                  Now, where the picture hangs, a dimity
+                </l>
+                <l>
+                  young inland housewife with inherited
+                </l>
+                <l>
+                  clocks under bells and ostrich eggs on shelves
+                </l>
+                <l>
+                  pours amber tea in small rice china cups
+                </l>
+                <l>
+                  and reconstructs
+                </l>
+                <l>
+                  how great-great-
+                  <subst change="#B">
+                    <del facs="PKP-1-12-22-4">
+                      <choice>
+                        <sic>
+                          grandpappa
+                        </sic>
+                        <corr>
+                          grandpapa
+                        </corr>
+                      </choice>
+                    </del>
+                    <add facs="PKP-1-12-22-5">
+                      grandpapa
+                    </add>
+                  </subst> 
+                  at ninety-three
+                </l>
+                <l>
+                  his fingers knotted with arthritis, his
+                </l>
+                <l>
+                  old eyes grown agatey with cataracts
+                </l>
+                
+                <pb n="PKP-1-12-23"/>
+                
+                <l>
+                became as docile as a child again
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                </l>
+                
+                <l>
+                  that fearful salty man
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                </l>
+                
+                <l>
+                  and sat, wrapped round in faded paisley shawls
+                </l>
+                <l>
+                  gently 
+                  <subst change="#A" facs="PKP-1-12-23-1">
+                    <del instant="true">
+                      embrod
+                    </del>
+                    <add/>
+                  </subst>
+                  embroidering.
+                </l>
+                <l>
+                  While Aunt Marina in grey worsted, warped
+                </l>
+                <l>
+                  without a smack of salt, came to his call
+                </l>
+                <l>
+                  the sole survivor of his last shipwreck.
+                </l>
+              </lg>
+              <trailer>
+                <choice>
+                  <orig>
+                    *        *        *        *
+                  </orig>
+                  <reg>
+                    ***
+                  </reg>
+                </choice>
+              </trailer>
+            </div>
+            
+            <div n="1.1.12.2" type="subsection">
+              <lg>
+                <l>
+                  Slightly offshore it glints. Each wave is capped
+                </l>
+                <l>
+                  with broken mirros. Like Marina’s head
+                </l>
+                <l>
+                  the glinting of these waves.
+                </l>
+                <l>
+                  She walked forever 
+                  <subst change="#A" facs="PKP-1-12-23-2">
+                    <del instant="true">
+                      at
+                    </del>
+                    <add/>
+                  </subst>
+                  antlered with migraines
+                </l>
+                <l>
+                  her pain forever putting forth new shoots
+                </l>
+                <l>
+                  until her strange unlovely head became
+                </l>
+                <l>
+                  a kind of candelabra
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                  delicate
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                </l>
+                
+                <l>
+                  where all her tears were 
+                  <subst change="#A" facs="PKP-1-12-23-3">
+                    <del instant="true">
+                      periol
+                    </del>
+                    <add/>
+                  </subst>
+                  perilously hung
+                </l>
+                <l>
+                  and caught the light as waves that catch the sun.
+                </l>
+                <l>
+                  The salt upon the panes, the grains of sand
+                </l>
+                <l>
+                  that crunched beneath her 
+                  <subst change="#A" facs="PKP-1-12-23-4">
+                    <del instant="true">
+                      hel
+                    </del>
+                    <add/>
+                  </subst>
+                  heel
+                </l>
+                <l>
+                  her father’s voice, 
+                  <q rend="dq">
+                    Marina!
+                  </q>
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                all these broke
+                </l>
+                <l>
+                  her trembling 
+                  <subst change="#A" facs="PKP-1-12-23-5">
+                    <del instant="true">
+                      edic
+                    </del>
+                    <add/>
+                  </subst>
+                  edifice. The needle shook
+                </l>
+                <l>
+                  like ice between her fingers.
+                </l>
+                <l>
+                  In her head
+                </l>
+                <l>
+                  too many mirrors dizzied her and broke.
+                </l>
+              </lg>
+              <trailer>
+                <choice>
+                  <orig>
+                    *        *        *        *
+                  </orig>
+                  <reg>
+                    ***
+                  </reg>
+                </choice>
+              </trailer>
+            </div>
+                
+            <div n="1.1.12.3" type="subsection">
+              <lg>
+                <l>
+                  But where the wave breaks, where it rises green
+                </l>
+                <l>
+                  turns into gelatine, becomes a glass
+                </l>
+                
+                <pb n="PKP-1-12-24"/>
+                
+                <l>
+                simply for seeing stones through, runs across
+                </l>
+                <l>
+                  the coloured shells and pebbles of the shore
+                </l>
+                <l>
+                  and makes an aspic of them
+                </l>
+                <l>
+                  then sucks back
+                </l>
+                <l>
+                  in foam and undertow
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                </l>
+                
+                <l>
+                  this aspect of the sea
+                </l>
+                <l>
+                  Marina never knew.
+                </l>
+                <l>
+                  For 
+                  <subst change="#A">
+                    <del facs="PKP-1-12-24-1">
+                      here
+                    </del>
+                    <add facs="PKP-1-12-24-2"/>
+                  </subst>
+                  the sea was Father’s Fearful Sea
+                </l>
+                <l>
+                  For her the sea was Father’s Fearful Sea
+                </l>
+                <l>
+                  harsh with sea serpents
+                </l>
+                <l>
+                  winds and drowning men.
+                </l>
+                <l>
+                  For her it held no spiral of a shell
+                </l>
+                <l>
+                  for her descent to dreams,
+                </l>
+                <l>
+                  it held no bells.
+                </l>
+                <l>
+                  And where it moved in shallows it was more
+                </l>
+                <l>
+                  imminently a danger, more alive
+                </l>
+                <l>
+                  than where it lay offshore full fathom five.
+                </l>
+              </lg>
+            </div>
+          </div>
+          
+          <pb n="PKP-1-12-25"/>
+          
+          <div n="1.1.13" type="poem" subtype="blank" xml:id="PKP-1-12-13">
+            <head>
+              Puppets
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 25-27
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                See them joined by strings to [history]
+              </l>
+              <l>
+                their strange 
+                <subst change="#A" facs="PKP-1-12-25-1">
+                  <del instant="true">
+                    proi
+                  </del>
+                  <add/>
+                </subst>
+                progenitors all born full-
+                <subst change="#A" facs="PKP-1-12-25-2">
+                  <del instant="true">
+                    gor
+                  </del>
+                  <add/>
+                </subst>
+                grown,
+              </l>
+              <l>
+                ancestors buried with the ancient Greeks
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                slim terra-cotta dolls with articulate limbs
+              </l>
+              <l part="I">
+                lying like corpses.
+              </l>
+              <l part="F">
+                Puppets in Rome
+              </l>
+              <l>
+                subject to 
+                <subst change="#B">
+                  <del facs="PKP-1-12-25-3">
+                    Papal laws
+                  </del>
+                  <add facs="PKP-1-12-25-4">
+                    papal law
+                  </add>
+                </subst>
+                , 
+                in tights.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And see the types perpetuate themselves
+              </l>
+              <l>
+                freed from the picket prejudice of race:
+              </l>
+              <l>
+                the seaside Punch with his inherited nose
+              </l>
+              <l>
+                carried from Pulcinella round the globe
+              </l>
+              <l>
+                ends up in Bexhill, enters English eyes.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                While here in a Sunday drawing-room beside
+              </l>
+              <l>
+                the bland Pacific and its rain come two
+              </l>
+              <l>
+                emerging full-grown from their dark cocoons
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                two whose 
+                <subst change="#B">
+                  <del facs="PKP-1-12-25-5">
+                    <choice>
+                      <sic>
+                        blase
+                      </sic>
+                      <corr>
+                        blasé
+                      </corr>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-25-6">
+                    blasé
+                  </add>
+                </subst> 
+                antecedents once
+              </l>
+              <l>
+                performed for Pepys’s mistress, or, in silk,
+              </l>
+              <l>
+                were bawdy for bored royalty at court;
+              </l>
+              <l>
+                escaped and raided country fairs and spread
+              </l>
+              <l>
+                the world with areas of Lilliput.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Before our eyes the twelve inch clown grows large
+              </l>
+              <l>
+                and dances on his rubber feet and kicks
+              </l>
+              <l>
+                pneumatic legs, thumbs his enormous nose;
+              </l>
+              
+              <pb n="PKP-1-12-26"/>
+              
+              <l>
+                lies down for push-ups
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                <choice>
+                  <sic>
+                    and,exhibitionist
+                  </sic>
+                  <corr>
+                    and, exhibitionist
+                  </corr>
+                </choice>
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                </l>
+              
+              <l>
+                suddenly turns and waves.
+              </l>
+              <l>
+                More clown than clowns he is all laughter, is
+              </l>
+              <l>
+                buoyed by it and brilliant in its light.
+              </l>
+              <l>
+                Unlike his living prototype has no
+              </l>
+              <l>
+                dichotomy to split him: this is all.
+              </l>
+              <l>
+                He calls your laughter out without reserve
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                is only and always feet and a vulgar streak
+              </l>
+              <l>
+                and his music, brass.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                The negro does a tap dance and his toes
+              </l>
+              <l>
+                click on the 
+                <subst change="#A" facs="PKP-1-12-26-1">
+                  <del instant="true">
+                    part
+                  </del>
+                  <add/>
+                </subst>
+                parquet.
+              </l>
+              <l>
+                Music moves in him and explodes in his toes
+              </l>
+              <l>
+                and somehow he is two-fold, though he grins
+              </l>
+              <l>
+                his hands are stripped of humour,
+              </l>
+              <l>
+                they are long
+              </l>
+              <l>
+                and lonely attached to him.
+              </l>
+              <l>
+                He is himself and his own symbol,
+              </l>
+              <l>
+                sings
+              </l>
+              <l>
+                terribly without a voice, is so
+              </l>
+              <l>
+                gentle it seems that his six delicate strings
+              </l>
+              <l>
+                are ropes upon him.
+              </l>
+              <l>
+                <subst change="#A" facs="PKP-1-12-26-2">
+                  <del instant="true">
+                    N
+                  </del>
+                  <add/>
+                </subst>
+                But still he grins, he grins.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Oh, coming isolated from their plays but not
+              </l>
+              <l>
+                isolated from their history,
+              </l>
+              <l>
+                shaped and moulded by heredity,
+              </l>
+              
+              <pb n="PKP-1-12-27"/>
+              
+              <l>
+              negro and clown in microcosm, these
+              </l>
+              <l>
+                small violent people shake the quiet room
+              </l>
+              <l>
+                and bring all [history] tumbling about
+              </l>
+              <l>
+                a giant audience that almost weeps.
+              </l>
+            </lg>
+          </div>
+        </div>
+        
+        <pb n="PKP-1-12-28"/>
+          
+        <div n="1.2" type="section">
+          <head>
+            Personal Landscape
+          </head>
+          
+          <!--<msDesc>
+            <msIdentifier>
+              <msName>
+                PKP-1-12: 28
+              </msName>
+            </msIdentifier>
+            <physDesc>
+              <handDesc>
+                <handNote corresp="#blu_i"/>
+              </handDesc>
+            </physDesc>
+          </msDesc>-->
+          
+          <pb n="PKP-1-12-29"/>
+            
+          <div n="1.2.1" type="poem" subtype="free" xml:id="PKP-1-12-14">
+            <head>
+              Personal Landscape
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 30
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#red_i"/>
+                  <handNote corresp="#blu_i2"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <anchor xml:id="PKP-1-12-29-meta1"/>
+            <metamark function="purpose_unclear" target="#PKP-1-12-29-meta1">
+              <subst change="#C" facs="PKP-1-12-29-1">
+                <del/>
+                <add>
+                  <desc>
+                    [purpose unclear]
+                  </desc>
+                </add>
+              </subst>
+            </metamark>
+            
+            <lg>
+              <l>
+                Where the bog ends, there, where the ground lips, lovely
+              </l>
+              <l part="I">
+                is love, not lonely.
+              </l>
+              <l part="F">
+                Land is
+              </l>
+              <l>
+              <subst change="#A" facs="PKP-1-12-29-2">
+                <del>
+                  round
+                </del>
+                <add/>
+              </subst>
+                love, round with it, where the hand is;
+              </l>
+              <l>
+                wide with love, cleared scrubland, grain
+              </l>
+              <l>
+                on a coin.
+              </l>
+              <l>
+                Oh, the wheatfield, the rock-bound rubble;
+              </l>
+              <l part="I">
+                the untouched hills
+              </l>
+              <l part="F">
+                as a thigh smooth;
+              </l>
+              <l>
+                the meadow.
+              </l>
+              <l>
+                Not only the poor soil lovely, the outworn prairie,
+              </l>
+              <l>
+                but the green upspringing,
+              </l>
+              <l>
+                the lark-land,
+              </l>
+              <l>
+                the promontory.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                A lung-born land, this,
+              </l>
+              <l>
+                a breath spilling,
+              </l>
+              <l>
+                scanned by the 
+                <subst change="#A" facs="PKP-1-12-29-3">
+                  <del instant="true">
+                    valb
+                  </del>
+                  <add/>
+                </subst>
+                valvular heart’s
+              </l>
+              <l>
+                field glasses.
+              </l>
+            </lg>
+            <anchor xml:id="PKP-1-12-29-meta2"/>
+            <metamark function="history" target="#PKP-1-12-29-meta2">
+              <subst change="#D">
+                <del>
+                  <subst change="#B" facs="PKP-1-12-29-4">
+                    <del/>
+                    <add>
+                      Alan—Yes
+                      <desc>
+                        [history] 
+                      </desc>
+                   </add>
+                  </subst>
+                </del>
+                <add facs="PKP-1-12-29-5"/>
+              </subst>
+            </metamark>
+          </div>
+          
+          <pb n="PKP-1-12-30"/>
+          
+          <div n="1.2.2" type="poem" subtype="free" xml:id="PKP-1-12-15">
+            <head>
+              <subst change="#B" xml:id="PKP-1-12-30-A1">
+                <del facs="PKP-1-12-30-1">
+                  Poem
+                </del>
+                <add facs="PKP-1-12-30-2 PKP-1-12-30-3">
+                  The Apple
+                </add>
+              </subst>
+              <subst change="#B" xml:id="PKP-1-12-30-A2">
+                <del facs="PKP-1-12-30-4">
+                  <choice>
+                    <orig>
+                      .
+                    </orig>
+                    <reg/>
+                  </choice>
+                </del>
+                <add facs="PKP-1-12-30-2 PKP-1-12-30-5"/>
+              </subst>
+              <substJoin target="#PKP-1-12-30-A1 #PKP-1-12-30-A2"/>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 30
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Look, look, he took me straight
+              </l>
+              <l>
+                to the snake’s eye
+              </l>
+              <l>
+                to the striped flower
+              </l>
+              <l>
+                shielding its peppery root.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                I said, 
+                <q resp="PKP">
+                  I shall 
+                  <subst change="#A" facs="PKP-1-12-30-6">
+                    <del instant="true">
+                      nv
+                    </del>
+                    <add/>
+                  </subst>
+                  never go back.
+                </q>
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                At harvest he 
+                <seg xml:id="PKP-1-12-30-meta1">
+                  took
+                </seg>
+                <metamark function="alternative_considered" target="#PKP-1-12-30-meta1">
+                  led
+                  <desc>
+                    [alternative considered] 
+                  </desc>
+                </metamark> 
+                me round and about.
+              </l>
+              <l>
+                The ground
+              </l>
+              <l>
+                was apple red and round.
+              </l>
+              <l>
+                The trees bare.
+              </l>
+              <l>
+                One apple only hung like a heart in air.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Together, bite by bite
+              </l>
+              <l>
+                we ate,
+              </l>
+              <l>
+                mouths opposite.
+              </l>
+              <l>
+                Bit clean through core and all to meet:
+              </l>
+              <l>
+                through sweet juice met.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                I said, 
+                <q resp="PKP">
+                  I shall never go back.
+                </q>
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                But someone let an angel down
+              </l>
+              <l>
+                on a thin 
+                <subst change="#A" facs="PKP-1-12-30-7">
+                  <del instant="true">
+                    t
+                  </del>
+                  <add/>
+                </subst>
+                string.
+              </l>
+              <l>
+                It was a rangey paper thing
+              </l>
+              <l>
+                with one wing torn,
+              </l>
+              <l>
+                born of a child.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Now, now, we come and go, we come and go,
+              </l>
+              <l>
+                feverish where that harvest grew.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-31"/>
+          
+          <div n="1.2.3" type="poem" subtype="quatrains" xml:id="PKP-1-12-16">
+            <head>
+              <subst change="#B">
+                <del facs="PKP-1-12-31-1">
+                  The Photograph
+                  <choice>
+                    <orig>
+                     .
+                    </orig>
+                    <reg/>
+                  </choice>
+                </del>
+                <add facs="PKP-1-12-31-2 PKP-1-12-31-3">
+                  To a Portrait in a Gallery
+                  <choice>
+                    <orig>
+                     —
+                    </orig>
+                    <reg/>
+                  </choice>
+                </add>
+              </subst>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 31-32
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#blu_2"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Seeking your face
+                <choice>
+                  <sic> 
+                    <subst change="#B">
+                      <del facs="PKP-1-12-31-4">
+                        <gap reason="cancelation" quantity="4" unit="chars"/>††††
+                      </del>
+                      <add facs="PKP-1-12-31-5">
+                        face
+                      </add>
+                    </subst>
+                  </sic>
+                  <corr/>
+                </choice>
+              </l>
+              
+              <l>
+                I am followed by spies.
+              </l>
+              <l>
+                I find your naked eyes before my eyes.
+              </l>
+              <l>
+                They make me shut my eyes.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                If hearts are suit
+              </l>
+              <l>
+                then face is ace.
+              </l>
+              <l>
+                As if I 
+                <subst change="#B">
+                  <del facs="PKP-1-12-31-6">
+                    saw
+                  </del>
+                  <add facs="PKP-1-12-31-7 PKP-1-12-31-8">
+                    see
+                  </add>
+                </subst> 
+                my face, I see your face.
+              </l>
+              <l>
+                I cannot meet your face.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                What 
+                <subst change="#B" xml:id="PKP-1-12-31-A1">
+                  <del facs="PKP-1-12-31-9">
+                    <emph rend="underline">
+                      I
+                    </emph>
+                  </del>
+                  <add facs="PKP-1-12-31-10 PKP-1-12-31-11">
+                    I
+                  </add>
+                </subst> 
+                
+                <subst change="#B">
+                  <del facs="PKP-1-12-31-12">
+                    could
+                  </del>
+                  <add facs="PKP-1-12-31-13 PKP-1-12-31-14">
+                    can
+                  </add>
+                </subst> 
+                find
+              </l>
+              <l>
+                <subst change="#B" xml:id="PKP-1-12-31-A2">
+                  <del facs="PKP-1-12-31-15">
+                    <emph rend="underline">
+                      we
+                    </emph>
+                  </del>
+                  <add facs="PKP-1-12-31-16 PKP-1-12-31-17">
+                    we
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-31-A1 #PKP-1-12-31-A2"/> 
+                cannot meet.
+              </l>
+              <l>
+                The mute and 
+                <subst change="#B">
+                  <del facs="PKP-1-12-31-18">
+                    not
+                  </del>
+                  <add facs="PKP-1-12-31-19">
+                    non
+                  </add>
+                </subst>
+                -mute meeting make
+              </l>
+              <l>
+                it meet that I be mute.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And mute, I share
+              </l>
+              <l>
+                your flesh’s fine
+              </l>
+              <l>
+                signs of despair. Which lines 
+                <subst change="#A" facs="PKP-1-12-31-18a">
+                  <del instant="true">
+                    arem
+                  </del>
+                  <add/>
+                </subst>
+                <choice>
+                  <sic>
+                    aremmine
+                  </sic>
+                  <corr>
+                    are mine
+                  </corr>
+                </choice>
+                ?
+              </l>
+              <l>
+                I walk out 
+                <subst change="#A" facs="PKP-1-12-31-18b">
+                  <del instant="true">
+                    lina
+                  </del>
+                  <add/>
+                </subst>
+                  lined, and blind.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                But you remain and your still fresh
+              </l>
+              <l>
+                indelible, undemanding stare
+              </l>
+              <l>
+                stands easy with the empty air, the 
+                <subst change="#A" facs="PKP-1-12-31-20">
+                  <del instant="true">
+                    <gap reason="cancellation" unit="chars"/>††††
+                  </del>
+                  <add/>
+                </subst>
+                same air where
+              </l>
+              <l>
+                I stood and could not stare.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                The only meeting
+              </l>
+              <l>
+                lightning flash
+              </l>
+              <l>
+                of flesh to flesh or 
+                <subst change="#A" facs="PKP-1-12-31-21">
+                  <del instant="true">
+                    phto
+                  </del>
+                  <add/>
+                </subst>
+                photograph
+              </l>
+              <l>
+                <seg xml:id="PKP-1-12-meta1">
+                  <subst change="#C" xml:id="PKP-1-12-31-B1">
+                    <del facs="PKP-1-12-31-22">
+                      mutely
+                    </del>
+                    <add facs="PKP-1-12-31-23 PKP-1-12-31-24 PKP-1-12-31-25 PKP-1-12-31-26">
+                      silent,
+                    </add>
+                  </subst>
+                  <substJoin target="#PKP-1-12-31-B1 #PKP-1-12-31-B2"/> 
+                </seg>
+                <metamark function="alternative_considered" target="#PKP-1-12-meta1">
+                  <subst change="#C" xml:id="PKP-1-12-31-B2">
+                    <del>
+                      <subst change="#B" facs="PKP-1-12-31-27">
+                        <del/>
+                        <add>
+                          silent
+                          <desc>
+                            [alternative considered] 
+                          </desc>
+                        </add>
+                      </subst>
+                    </del>
+                    <add facs="PKP-1-12-31-25 PKP-1-12-31-26"/>
+                  </subst>
+                </metamark>
+                opposed to photograph.
+              </l>
+              
+              <pb n="PKP-1-12-32"/>
+              
+              <l>
+              Oh heart’s sweet ace
+              </l>
+              <l>
+                is smudged with weeping.
+              </l>
+              <l>
+                For us no greeting without bleeding,
+              </l>
+              <l>
+                no meeting without weeping.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-33"/>
+          
+          <div n="1.2.4" type="poem" subtype="nonce" xml:id="PKP-1-12-17">
+            <head>
+              <subst change="#F" facs="PKP-1-12-33-1">
+                <del>
+                  <choice>
+                    <sic>
+                      <desc>
+                        temporary title placemarker
+                      </desc>
+                    </sic>
+                    <corr/>
+                  </choice>
+                  <choice>
+                    <orig> </orig>
+                    <reg type="title">
+                      How Use So Fine a Rage
+                    </reg>
+                  </choice>
+                </del>
+                <add>
+                  Rage
+                </add>
+              </subst>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 33
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#bla_i"/>
+                  <handNote corresp="#blu_i2"/>
+                  <handNote corresp="#bla_p"/>
+                  <handNote corresp="#grn_i"/>
+                  <handNote corresp="#blu_3"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                How use so fine a rage
+                <subst change="#F">
+                  <del facs="PKP-1-12-33-2">
+                    :
+                  </del>
+                  <add facs="PKP-1-12-33-3">
+                    ?
+                  </add>
+                </subst>
+                
+                <subst change="#F">
+                  <del type="lg" facs="PKP-1-12-33-3a">
+                    ¶
+                  </del>
+                  <add facs="PKP-1-12-33-4 PKP-1-12-33-5"/>
+                </subst>
+              </l>
+              <l>
+                Why <subst change="#G">
+                  <del>
+                    <subst change="#E">
+                      <del facs="PKP-1-12-33-6">
+                        waste
+                      </del>
+                      <add facs="PKP-1-12-33-7 PKP-1-12-33-8">
+                        vent
+                      </add>
+                    </subst>
+                  </del>
+                  <add facs="PKP-1-12-33-9 PKP-1-12-33-10">
+                    waste
+                  </add>
+                </subst> 
+                upon bare air
+              </l>
+              <l>
+                so grand a water-spout
+                <choice>
+                  <sic>
+                    ,
+                  </sic>
+                  <corr/>
+                </choice>
+                ?
+              </l>
+              <l>
+                God
+                <subst change="#A">
+                  <del facs="PKP-1-12-33-11">
+                    ,
+                  </del>
+                  <add facs="PKP-1-12-33-12">
+                    !
+                  </add>
+                </subst> 
+                let it sink a boat
+              </l>
+              <l>
+                and swamp an island near
+              </l>
+              <l>
+                where that boat did float
+              </l>
+              <l>
+                then whistle on and blow
+                <subst change="#D" xml:id="PKP-1-12-33-A1" facs="PKP-1-12-33-13">
+                  <del/>
+                  <add>
+                    —
+                  </add>
+                </subst>
+              </l>
+              <l>
+                <subst change="#D" xml:id="PKP-1-12-33-A2">
+                  <del facs="PKP-1-12-33-14">
+                    (
+                  </del>
+                  <add facs="PKP-1-12-33-15"/>
+                </subst>
+                cooler now and so
+              </l>
+              <l>
+                merely 
+                <subst change="#G">
+                  <del facs="PKP-1-12-33-16">
+                    the
+                  </del>
+                  <add facs="PKP-1-12-33-17 PKP-1-12-33-18">
+                    a
+                  </add>
+                </subst> 
+                whim of rage
+                <subst change="#D" xml:id="PKP-1-12-33-A3">
+                  <del facs="PKP-1-12-33-19">
+                    )
+                  </del>
+                  <add facs="PKP-1-12-33-20 PKP-1-12-33-21">
+                    —
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-33-A1 #PKP-1-12-33-A2 #PKP-1-12-33-A3"/>
+              </l>
+              <l>
+                whales in the bloody air.
+              </l>
+            </lg>
+            
+            <byline>
+              P.K. Page.
+            </byline>
+            
+            <anchor xml:id="PKP-1-12-33-meta1"/>
+            <metamark function="history" target="#PKP-1-12-33-meta1">
+              <subst change="#C">
+                <del>
+                  <subst change="#B" facs="PKP-1-12-33-22">
+                    <del/>
+                    <add>
+                      Alan—Yes
+                      <desc>
+                        [history] 
+                      </desc>
+                    </add>
+                  </subst>
+                </del>
+                <add facs="PKP-1-12-33-23"/>
+              </subst>
+              
+              <subst change="#D" facs="PKP-1-12-33-24">
+                <del/>
+                <add>
+                  Sent to A.J.M. Smith Oct 64
+                  <desc>
+                    [history] 
+                  </desc>
+              </add>
+              </subst>
+            </metamark>
+          </div>
+          
+          <pb n="PKP-1-12-34"/>
+          
+          <div n="1.2.5" type="poem" subtype="tercets" xml:id="PKP-1-12-18">
+            <head>
+              The Glass Air
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 34-35
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#bla_i"/>
+                  <handNote corresp="#bla_i2"/>
+                  <handNote corresp="#blu_i2"/></handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                I dreamed my most extraordinary darling
+              </l>
+              <l>
+                gangling, come to share
+              </l>
+              <l>
+                my hot and prairie childhood,
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                the first day loosed the mare from her picket
+              </l>
+              <l>
+                and rode her bareback
+              </l>
+              <l>
+                over the little foothills towards the mountains.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And on the second, striding from his tent,
+              </l>
+              <l>
+                twisted a noose of butcher’s string.
+              </l>
+              <l>
+                Ingenious to my eyes the knots he tied.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                The third bright day he laid the slack noose over
+              </l>
+              <l>
+                the gopher’s burrow,
+              </l>
+              <l>
+                unhurried by the chase,
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                and lolled a full week, lazy, in the sun
+              </l>
+              <l>
+                until the head popped, sleek, enquiring
+                <subst change="#E" xml:id="PKP-1-12-34-A1">
+                  <del facs="PKP-1-12-34-1">
+                    <choice>
+                      <orig>
+                        --
+                      </orig>
+                      <reg>
+                        —
+                      </reg>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-34-2">
+                    .
+                  </add>
+                </subst>
+              </l>
+              
+              <l>
+                <subst change="#E" xml:id="PKP-1-12-34-A2">
+                  <del facs="PKP-1-12-34-3">
+                    the
+                  </del>
+                  <add facs="PKP-1-12-34-4">
+                    The
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-34-A1 #PKP-1-12-34-A2"/> 
+                noose 
+                <subst change="#E" xml:id="PKP-1-12-34-B1">
+                  <del facs="PKP-1-12-34-5">
+                    tight 
+                  </del>
+                  <add facs="PKP-1-12-34-6"/>
+                </subst>
+                pulled 
+                <subst change="#E" xml:id="PKP-1-12-34-B2" facs="PKP-1-12-34-6">
+                  <del/>
+                  <add>
+                    tight 
+                  </add>
+                </subst>
+                
+                <subst change="#E">
+                  <del facs="PKP-1-12-34-7">
+                    <choice>
+                      <sic>
+                        around 
+                      </sic>
+                     <corr/>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-34-9"/>
+                </subst>
+                around its throat.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Then the small fur lashed, lit out, hurling
+              </l>
+              <l>
+                about only to turn
+              </l>
+              <l>
+                tame silk in his palm
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                <subst change="#D">
+                  <del facs="PKP-1-12-34-10">
+                    so
+                  </del>
+                  <add facs="PKP-1-12-34-11 PKP-1-12-34-12">
+                    as
+                  </add>
+                </subst> 
+                privy harness, tangled from his pocket,
+              </l>
+              <l>
+                with leash of string,
+              </l>
+              <l>
+                slipped simply on.
+              </l>
+            </lg>
+            
+            <pb n="PKP-1-12-35"/>
+            
+            <lg>
+              <l>
+                But the toy beast and the long rein and the paid out lengths
+              </l>
+              <l>
+                of our youth snapped
+              </l>
+              <l>
+                as the creature jibbed and bit
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                and the bright blood ran out, the bright blood trickled over,
+              </l>
+              <l>
+                slowed, grew dark,
+              </l>
+              <l>
+                lay sticky on our skins.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                And we two, dots upon that endless plain, 
+                <subst change="#A" facs="PKP-1-12-35-1">
+                  <del instant="true">
+                    Leviathe
+                  </del>
+                  <add>
+                    Leviathan
+                  </add>
+                </subst> 
+                became,
+              </l>
+              <l>
+                and filled and broke
+              </l>
+              <l>
+                the glass air like twin figures, vast, in stone.
+              </l>
+            </lg>
+            
+            <anchor xml:id="PKP-1-12-35-meta1"/>
+            <metamark function="history" target="#PKP-1-12-35-meta1">
+              <subst change="#C">
+                <del>
+                  <subst change="#B" facs="PKP-1-12-35-2">
+                    <del/>
+                    <add>
+                      Alan—Yes—
+                      <desc>
+                        [history] 
+                      </desc>
+                    </add>
+                  </subst>
+                </del>
+                <add facs="PKP-1-12-35-3"/>
+              </subst>
+            </metamark>
+          </div>
+          
+          <pb n="PKP-1-12-36"/>
+          
+          <div n="1.2.6" type="poem" subtype="sestains" xml:id="PKP-1-12-19">
+            <head>
+              <subst change="#B" xml:id="PKP-1-12-36-A1">
+                <del facs="PKP-1-12-36-1">
+                  Afloat in
+                </del>
+                <add facs="PKP-1-12-36-2 PKP-1-12-36-3">
+                  In
+                </add>
+              </subst> 
+              a 
+              <subst change="#B" xml:id="PKP-1-12-36-A2">
+                <del facs="PKP-1-12-36-4">
+                  Boat
+                </del>
+                <add facs="PKP-1-12-36-5 PKP-1-12-36-6">
+                  Ship
+                </add>
+              </subst> 
+              Recently 
+              <subst change="#B">
+                <del>
+                  <subst change="#B" xml:id="PKP-1-12-36-A3">
+                    <del facs="PKP-1-12-36-7">
+                      Saved
+                    </del>
+                    <add facs="PKP-1-12-36-8 PKP-1-12-36-9">
+                      Reared
+                    </add>
+                  </subst>
+                </del>
+                <add facs="PKP-1-12-36-10 PKP-1-12-36-11">
+                  Raised
+                </add>
+              </subst> 
+              from 
+              <subst change="#B" xml:id="PKP-1-12-36-A4">
+                <del facs="PKP-1-12-36-12">
+                  <choice>
+                    <sic>
+                      Drowing
+                    </sic>
+                    <corr>
+                      Drowning
+                    </corr>
+                  </choice>
+                </del>
+                <add facs="PKP-1-12-36-13 PKP-1-12-36-14">
+                  the Sea
+                </add>
+              </subst>
+              
+              <subst change="#B" xml:id="PKP-1-12-36-A5">
+                <del facs="PKP-1-12-36-15">
+                  .
+                </del>
+                <add facs="PKP-1-12-36-13 PKP-1-12-36-16">
+                  .
+                </add>
+              </subst>
+              <substJoin target="#PKP-1-12-36-A1 #PKP-1-12-36-A2 #PKP-1-12-36-A3 #PKP-1-12-36-A4 #PKP-1-12-36-A5"/>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 36
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Bright fish once swimming where we lie
+              </l>
+              <l>
+                lazy upon this bunk,
+              </l>
+              <l>
+                <subst change="#A" facs="PKP-1-12-36-17">
+                  <del instant="true">
+                    quicl
+                  </del>
+                  <add/>
+                </subst>
+                quicksilvered the fluid sheets
+              </l>
+              <l>
+                moved in a maze of mirrors.
+              </l>
+              <l>
+                The 
+                <choice>
+                  <sic>
+                    macherel
+                  </sic>
+                  <corr>
+                    mackerel
+                  </corr>
+                </choice> 
+                eye, the liquid fin
+              </l>
+              <l>
+                swam in the curve your arm is making.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                All tilting then, a dome of tears
+              </l>
+              <l>
+                trembled and settled on the silt.
+              </l>
+              <l>
+                Where women wept in 
+                <subst change="#A" facs="PKP-1-12-36-18">
+                  <del instant="true">
+                    mercru
+                  </del>
+                  <add/>
+                </subst>
+                mercury
+              </l>
+              <l>
+                a 
+                <subst change="#A" facs="PKP-1-12-36-19">
+                  <del instant="true">
+                    x
+                  </del>
+                  <add/>
+                </subst>
+                school of pewter shadows traced
+              </l>
+              <l>
+                parabolas upon the 
+                <subst change="#A" facs="PKP-1-12-36-20">
+                  <del instant="true">
+                    lien
+                  </del>
+                  <add/>
+                </subst>
+                linen which once had wrapped their lilyskin.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Rinsed now in parables of waves,
+              </l>
+              <l>
+                by half sleep lapped and locked
+              </l>
+              <l>
+                and wimpled in this shifting space
+              </l>
+              <l>
+                your face 
+                <subst change="#A" facs="PKP-1-12-36-21">
+                  <del instant="true">
+                    roc,
+                  </del>
+                  <add/>
+                </subst>
+                rocks in my water self,
+              </l>
+              <l>
+                awash as when fish slanted in
+              </l>
+              <l>
+                the 
+                <subst change="#A" facs="PKP-1-12-36-22">
+                  <del instant="true">
+                    a
+                  </del>
+                  <add/>
+                </subst>
+                enclave of this briny cabin.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-37"/>
+          
+          <div n="1.2.7" type="poem" subtype="irregular" xml:id="PKP-1-12-20">
+            <head>
+              <subst change="#D" xml:id="PKP-1-12-37-A1">
+                <del facs="PKP-1-12-37-1">
+                  Intractable Between Them Grows
+                </del>
+                <add facs="PKP-1-12-37-2 PKP-1-12-37-3">
+                  The Metal and the Flower
+                </add>
+              </subst>
+              
+              <subst change="#D" xml:id="PKP-1-12-37-A2">
+                <del facs="PKP-1-12-37-4">
+                  <choice>
+                    <orig>
+                      --
+                    </orig>
+                    <reg>
+                      —
+                    </reg>
+                  </choice>
+                </del>
+                <add facs="PKP-1-12-37-2 PKP-1-12-37-5">
+                  <choice>
+                    <orig>
+                      —
+                    </orig>
+                    <reg/>
+                  </choice>
+                </add>
+              </subst>
+              <substJoin target="#PKP-1-12-37-A1 #PKP-1-12-37-A2"/>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 37
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_1"/>
+                  <handNote corresp="#bla_i"/>
+                  <handNote corresp="#blu_i2"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Intractable between them grows
+              </l>
+              <l>
+                a garden of barbed wire and roses.
+              </l>
+              <l>
+                Burning briars like flames devour
+              </l>
+              <l>
+                their too innocent attire.
+              </l>
+              <l>
+                Dare they meet, the blackened wire
+              </l>
+              <l>
+                tears the intervening air.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Trespassers have wandered through
+              </l>
+              <l>
+                texture of flesh and petals.
+              </l>
+              <l>
+                Dogs like arrows 
+                <subst change="#A" facs="PKP-1-12-37-6">
+                  <del instant="true">
+                    nos
+                  </del>
+                  <add/>
+                </subst>
+                moved along
+              </l>
+              <l>
+                pathways that their noses knew.
+              </l>
+              <l>
+                While the two who laid it out
+              </l>
+              <l>
+                find the metal and the flower
+              </l>
+              <l>
+                fatal underfoot.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Black and white at midnight glows
+              </l>
+              <l>
+                this garden of barbed wire and roses.
+              </l>
+              <l>
+                Doused with darkness roses burn
+              </l>
+              <l>
+                coolly as a rainy moon;
+              </l>
+              <l>
+                beneath a rainy moon or none
+              </l>
+              <l>
+                silver the sheath on barb and thorn.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Change the garden, scale and plan;
+              </l>
+              <l>
+                <subst change="#A" facs="PKP-1-12-37-7">
+                  <del instant="true">
+                    s
+                  </del>
+                  <add/>
+                </subst>
+                wall it, make it annual.
+              </l>
+              <l>
+                There the briary flower grew.
+              </l>
+              <l>
+                There the brambled wire ran.
+              </l>
+              <l>
+                While they sleep the garden 
+                <subst change="#A" facs="PKP-1-12-37-8">
+                  <del instant="true">
+                    f
+                  </del>
+                  <add/>
+                </subst>
+                grows,
+              </l>
+              <l>
+                deepest wish annuls the will:
+              </l>
+              <l>
+                perfect still the wire and rose.
+              </l>
+            </lg>
+            
+            <anchor xml:id="PKP-1-12-37-meta1"/>
+            <metamark function="history" target="#PKP-1-12-37-meta1">
+              <subst change="#C">
+                <del>
+                  <subst change="#B" facs="PKP-1-12-37-9">
+                    <del/>
+                      <add>
+                        Alan—Yes
+                        <desc>
+                          [history] 
+                        </desc>
+                      </add>
+                  </subst>
+                </del>
+                <add facs="PKP-1-12-37-10"/>
+              </subst>
+            </metamark>
+          </div>
+          
+          <pb n="PKP-1-12-38"/>
+          
+          <div n="1.2.8" type="poem" subtype="tercets" xml:id="PKP-1-12-21">
+            <head>
+              Dark Kingdom
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12:38 
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#grn_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Deep swings the midnight arc.
+              </l>
+              <l>
+                These heavens spin below
+              </l>
+              <l>
+                in giddying zodiac.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                What constellations burn?
+              </l>
+              <l>
+                The Chalice and the Goat,
+              </l>
+              <l>
+                the Sceptred Unicorn.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Pinned to a turning sphere
+              </l>
+              <l>
+                I know not up nor down.
+              </l>
+              <l>
+                I dizzy as I stare.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Wheeling around a point
+              </l>
+              <l>
+                that drives me through and through
+              </l>
+              <l>
+                the very stars grow faint.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Such blacknesses abound
+              </l>
+              <l>
+                I know not in nor out.
+              </l>
+              <l>
+                O Shadow, take my hand
+                <subst change="#B" xml:id="PKP-1-12-38-A1" facs="PKP-1-12-38-1">
+                  <del/>
+                  <add>
+                    .
+                  </add>
+                </subst>
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                <subst change="#B" xml:id="PKP-1-12-38-A2">
+                  <del facs="PKP-1-12-38-2">
+                    and blazon
+                  </del>
+                  <add facs="PKP-1-12-38-3 PKP-1-12-38-4  PKP-1-12-38-5">
+                    <choice>
+                      <sic>
+                        Em-blazon
+                      </sic>
+                      <corr>
+                        Emblazon
+                      </corr>
+                    </choice>
+                  </add>
+                </subst>
+                <substJoin target="#PKP-1-12-38-A1 #PKP-1-12-38-A2"/> 
+                on the night
+              </l>
+              <l>
+                resplendent
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+                though I drown
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                the Crowned 
+                <subst change="#A" facs="PKP-1-12-38-6">
+                  <del instant="true">
+                    W
+                  </del>
+                  <add/>
+                </subst>
+                Hermaphrodite.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-39"/>
+          
+          <div n="1.2.9" type="poem" subtype="sestains" xml:id="PKP-1-12-22">
+            <head>
+              The Event
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                The keys all turned to that event
+              </l>
+              <l>
+                as if it were a magnetic lock.
+              </l>
+              <l>
+                A rush of streams flowed into it
+              </l>
+              <l>
+                thundering from the great divide
+              </l>
+              <l>
+                while numberless and hidden heads
+              </l>
+              <l>
+                like flowers leaned out to feel its light.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                The lion, somnolent with food,
+              </l>
+              <l>
+                the bear in his continuing winter,
+              </l>
+              <l>
+                rose to its bell as if 
+                <subst change="#A" facs="PKP-1-12-39-1">
+                  <del instant="true">
+                    ther
+                  </del>
+                  <add/>
+                </subst>
+                their blood
+              </l>
+              <l>
+                conveyed its red and vital current.
+              </l>
+              <l>
+                That instant the indifferent street
+              </l>
+              <l>
+                became their sudden food.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                Lilies and archangels began
+              </l>
+              <l>
+                the gradual gentling of the lion.
+              </l>
+              <l>
+                The burred bear fell asleep again
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              </l>
+              
+              <l>
+                a snowfall lulled him to a lamb.
+              </l>
+              <l>
+                Like velvet toys they lie there prone
+              </l>
+              <l>
+                and dream the cactus plant of pain.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                But children will be born whose blood
+              </l>
+              <l>
+                remembers that event.
+              </l>
+              <l>
+                The lion and bear will waken up
+              </l>
+              <l>
+                ravenous after sleep
+              </l>
+              <l>
+                and lilies then will be their bread,
+              </l>
+              <l>
+                archangels their white meat.
+              </l>
+            </lg>
+          </div>
+          
+          <pb n="PKP-1-12-40"/>
+          
+          <div n="1.2.10" type="poem" subtype="free" xml:id="PKP-1-12-23">
+            <head>
+              <hi rend="caps">
+                Arras
+              </hi>
+              <choice>
+                <orig>
+                  .
+                </orig>
+                <reg/>
+              </choice>
+            </head>
+              
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12: 
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#grn_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <lg>
+              <l>
+                Consider a new habit
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              classical,
+              </l>
+              <l>
+                and trees 
+                <subst change="#B">
+                  <del facs="PKP-1-12-40-1">
+                    <choice>
+                      <sic>
+                        espealiered
+                      </sic>
+                      <corr>
+                        espaliered
+                      </corr>
+                    </choice>
+                  </del>
+                  <add facs="PKP-1-12-40-2">
+                    espaliered
+                  </add>
+                </subst> 
+                on the wall like candelabra.
+              </l>
+              <l>
+                How still upon that lawn our sandalled feet.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                But a peacock rattling its rattan tail and screaming
+              </l>
+              <l>
+                has found a point of entry. Through whose eye
+              </l>
+              <l>
+                did it insinuate in furled disguise
+              </l>
+              <l>
+                to shake its jewels and silk upon that grass?
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                The peaches hang like 
+                <subst change="#A" facs="PKP-1-12-40-3">
+                  <del instant="true">
+                    lantersn
+                  </del>
+                  <add/>
+                </subst>
+                lanterns. No one 
+                <subst change="#A" facs="PKP-1-12-40-4">
+                  <del instant="true">
+                    joing
+                  </del>
+                  <add/>
+                </subst>
+                joins
+              </l>
+              <l part="I">
+                those figures on the arras.
+              </l>
+              <l part="F">
+                Who am I
+              </l>
+              <l>
+                or who am I become that walking here
+              </l>
+              <l>
+                I am observer, other, Gemini,
+              </l>
+              <l>
+                starred for a green garden of cinema?
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                I ask, what did they deal me in this pack?
+              </l>
+              <l>
+                The cards, all suits, are royal when I look.
+              </l>
+              <l>
+                My fingers slipping on a monarch’s face
+              </l>
+              <l>
+                twitch and grow slack.
+              </l>
+              <l>
+                I want a hand to clutch, a heart to crack.
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                No one is moving now, the stillness is
+              </l>
+              <l>
+                infinite. If I should 
+                <subst change="#A" facs="PKP-1-12-40-5">
+                  <del instant="true">
+                    am
+                  </del>
+                  <add/>
+                </subst>
+                make a break
+                <choice>
+                  <orig>
+                    ....
+                  </orig>
+                  <reg>
+                    …
+                  </reg>
+                </choice>
+              </l>
+              <l>
+                take to my springy heels
+                <choice>
+                  <orig>
+                    ....
+                  </orig>
+                  <reg>
+                    …
+                  </reg>
+                </choice>
+                ?  But nothing moves.
+              </l>
+              <l>
+                The spinning world is stuck upon its poles,
+              </l>
+              <l>
+                the 
+                <seg xml:id="PKP-1-12-40-meta1">
+                  stillness points a bone
+                </seg>
+                <metamark function="annotation_considered" target="#PKP-1-12-40-meta1">
+                  <subst change="#C">
+                    <del>
+                      <subst change="#B" facs="PKP-1-12-40-6">
+                        <del/>
+                        <add>
+                          <desc>
+                            annotation considered
+                          </desc>
+                        </add>
+                      </subst>
+                    </del>
+                    <add facs="PKP-1-12-41-5">
+                      points a bone.
+                      <desc>
+                        [annotation considered] 
+                      </desc>
+                    </add>
+                  </subst>
+                </metamark> 
+                at me. I fear
+              </l>
+              <l part="I">
+              the future on this arras.
+              </l>
+              <l part="F">
+                I confess:
+              </l>
+              
+              <pb n="PKP-1-12-41"/>
+              
+              <l>
+              It was my eye.
+              </l>
+              <l>
+                <subst change="#A" facs="PKP-1-12-41-1">
+                  <del instant="true">
+                    Voluptou
+                  </del>
+                  <add/>
+                </subst>
+                Voluptuous it came.
+              </l>
+              <l>
+                Its head the ferrule and its lovely tail
+              </l>
+              <l>
+                folded so sweetly; it was strangely slim
+              </l>
+              <l>
+                to fit the retina. And then it shook
+              </l>
+              <l>
+                and was a 
+                <subst change="#A" facs="PKP-1-12-41-2">
+                  <del instant="true">
+                    peack
+                  </del>
+                  <add/>
+                </subst>
+                peacock
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              living patina,
+              </l>
+              <l>
+                eye-bright
+                <choice>
+                  <orig>
+                    --
+                  </orig>
+                  <reg>
+                    —
+                  </reg>
+                </choice>
+              maculate!
+              </l>
+              <l>
+                Does 
+                <subst change="#A" facs="PKP-1-12-41-3">
+                  <del instant="true">
+                    k
+                  </del>
+                  <add/>
+                </subst>
+                no one care?
+              </l>
+            </lg>
+            
+            <lg>
+              <l>
+                I thought their hands might hold me if I spoke.
+              </l>
+              <l>
+                I dreamed the bite of fingers in my flesh,
+              </l>
+              <l>
+                their poke smashed by an image, but they stand
+              </l>
+              <l>
+                as if within a treacle, motionless,
+              </l>
+              <l>
+                folding slow eyes on nothing. While they stare
+              </l>
+              <l>
+                another line has trolled the encircling air,
+              </l>
+              <l>
+                another bird assumes its furled disguise.
+              </l>
+            </lg>
+            
+            <anchor xml:id="PKP-1-12-41-meta1"/>
+            <metamark function="history" target="#PKP-1-12-41-meta1">
+              <subst change="#B" facs="PKP-1-12-41-4">
+                <del/>
+                <add>
+                  Alan—Yes—
+                  <desc>
+                    [history] 
+                  </desc>
+                </add>
+              </subst>
+            </metamark>
+          </div>
+        </div>
+      </div>
+      
+      <pb n="PKP-1-12-42"/>
+      
+      <div n="2" type="part">
+        <head>
+          Part IV
+        </head>
+            
+        <!--<msDesc>
+          <msIdentifier>
+            <msName>
+              PKP-1-12: 42
+            </msName>
+          </msIdentifier>
+          <physDesc>
+            <handDesc>
+              <handNote corresp="#ts"/>
+            </handDesc>
+          </physDesc>
+        </msDesc>-->
+        
+        <pb n="PKP-1-12-43"/>
+        
+        <div n="2.1" type="section">
+          <head>
+            Cry Ararat! 
+          </head>
+          
+          <!--<msDesc>
+            <msIdentifier>
+              <msName>
+                PKP-1-12: 43
+              </msName>
+            </msIdentifier>
+            <physDesc>
+              <handDesc>
+                <handNote corresp="#blu_i"/>
+              </handDesc>
+            </physDesc>
+          </msDesc>-->
+          
+          <pb n="PKP-1-12-44"/>
+          
+          <div n="2.1.1" type="poem" subtype="free" xml:id="PKP-1-12-24">
+            <head>
+              Cry Ararat!
+            </head>
+            
+            <!--<msDesc>
+              <msIdentifier>
+                <msName>
+                  PKP-1-12:44-48 
+                </msName>
+              </msIdentifier>
+              <physDesc>
+                <handDesc>
+                  <handNote corresp="#ts"/>
+                  <handNote corresp="#bla_p"/>
+                  <handNote corresp="#blu_i"/>
+                  <handNote corresp="#blu_i2"/>
+                  <handNote corresp="#grn_i"/>
+                </handDesc>
+              </physDesc>
+            </msDesc>-->
+            
+            <div>
+              <head>
+                I
+                <choice>
+                  <orig>
+                    .
+                  </orig>
+                  <reg/>
+                </choice>
+              </head>
+              
+              <lg>
+                <l>
+                  In the dream the mountain near
+                </l>
+                <l>
+                  but without sound.
+                </l>
+                <l>
+                  A dream through binoculars
+                </l>
+                <l>
+                  seen sharp and clear:
+                </l>
+                <l>
+                  the leaves moving, turning
+                </l>
+                <l>
+                  in a far wind
+                </l>
+                <l>
+                  no ear can hear.
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  First soft in the distance,
+                </l>
+                <l>
+                  blue in blue air
+                </l>
+                <l>
+                  then sharpening, quickening
+                </l>
+                <l>
+                  taking on green.
+                </l>
+                <l>
+                  Swiftly the fingers
+                </l>
+                <l>
+                  seek accurate focus
+                </l>
+                <l>
+                  (the bird
+                </l>
+                <l>
+                  has vanished so often
+                </l>
+                <l>
+                  before the sharp lens
+                </l>
+                <l>
+                  could deliver it)
+                </l>
+                <l>
+                  then as if from the sea
+                </l>
+                <l>
+                  the mountain appears
+                </l>
+                <l>
+                  emerging new-washed
+                </l>
+                <l>
+                  growing maples and firs.
+                </l>
+                <l>
+                  The faraway, here.
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  <seg xml:id="PKP-1-12-44-meta1">
+                    Do not reach 
+                    <subst change="#C">
+                      <del facs="PKP-1-12-44-1">
+                        out 
+                      </del>
+                      <add facs="PKP-1-12-44-2"/>
+                    </subst>
+                     to touch it
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-44-meta1">
+                    <subst change="#B" facs="PKP-1-12-44-3 PKP-1-12-44-4  PKP-1-12-44-5">
+                      <del/>
+                      <add>
+                        <desc>
+                         [deletion considered]
+                        </desc>
+                      </add>
+                    </subst>
+                  </metamark>
+                </l>
+                <l>
+                  <subst change="#D">
+                    <del>
+                      <subst change="#C">
+                        <del facs="PKP-1-12-44-6">
+                          nor
+                        </del>
+                        <add facs="PKP-1-12-44-7">
+                          or
+                        </add>
+                      </subst>
+                    </del>
+                    <add facs="PKP-1-12-44-8">
+                      nor
+                    </add>
+                  </subst> 
+                  labour to hear.
+                </l>
+                <l>
+                  Return to your hand
+                </l>
+                
+                <pb n="PKP-1-12-45"/>
+                
+                <l>
+                the sense of the hand;
+                </l>
+                <l>
+                  return to your ear
+                </l>
+                <l>
+                  the sense of the ear.
+                </l>
+                <l>
+                  Remember the statue,
+                </l>
+                <l>
+                  that space in the air
+                </l>
+                <l>
+                  which with nothing to hold
+                </l>
+                <l>
+                  what the minute is giving
+                </l>
+                <l>
+                  <emph rend="underline">
+                    is
+                  </emph> 
+                  through each point
+                </l>
+                <l>
+                  where its marble 
+                  <seg xml:id="PKP-1-12-45-meta1">
+                    <subst change="#E">
+                      <del facs="PKP-1-12-45-1">
+                        is touching
+                      </del>
+                      <add facs="PKP-1-12-45-2 PKP-1-12-45-3 PKP-1-12-45-4 PKP-1-12-45-5">
+                        touches
+                      </add>
+                      </subst>
+                  </seg>
+                  <metamark function="alternative_considered" target="#PKP-1-12-45-meta1">
+                    <subst change="#C">
+                      <del>
+                        <subst change="#B" facs="PKP-1-12-45-8 PKP-1-12-45-9 PKP-1-12-45-10 PKP-1-12-45-10a">
+                          <del/>
+                          <add>
+                            <desc>
+                              [alternative considered]
+                            </desc>
+                          </add>
+                        </subst>
+                      </del>
+                      <add facs="PKP-1-12-45-9a"/>
+                    </subst>
+                  </metamark>
+                  
+                  <seg xml:id="PKP-1-12-45-meta2">
+                    <subst change="#E">
+                      <del facs="PKP-1-12-45-6">
+                        the 
+                      </del>
+                      <add facs="PKP-1-12-45-7"/>
+                    </subst>
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-45-meta2">
+                    <subst change="#C" facs="PKP-1-12-45-8 PKP-1-12-45-11 PKP-1-12-45-12">
+                      <del/>
+                      <add>
+                        <desc>
+                          [deletion considered]
+                        </desc>
+                      </add>
+                    </subst>
+                  </metamark>
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  Then will each leaf and flower
+                </l>
+                <l>
+                  each bird and animal
+                </l>
+                <l>
+                  become as perfect as
+                </l>
+                <l>
+                  the thing its name evoked
+                </l>
+                <l>
+                  when busy as a child
+                </l>
+                <l>
+                  the world stopped at the Word
+                </l>
+                <l>
+                  and Flowers more real than flowers
+                </l>
+                <l>
+                  grew vivid and immense;
+                </l>
+                <l>
+                  and Birds more beautiful
+                </l>
+                <l>
+                  and Leaves more intricate
+                </l>
+                <l>
+                  flew, blew and quilted all
+                </l>
+                <l>
+                  the quick landscape.
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  So flies and blows the dream
+                </l>
+                <l>
+                  embracing like a sea
+                </l>
+                <l>
+                  all that in it swims
+                </l>
+                <l>
+                  when dreaming, you desire
+                </l>
+                
+                <pb n="PKP-1-12-46"/>
+                
+                <l>
+                and ask for nothing more
+                </l>
+                <l>
+                  than stillness to receive
+                </l>
+                <l>
+                  the I-am animal,
+                </l>
+                <l>
+                  the We-are leaf and flower,
+                </l>
+                <l>
+                  the distant mountain near.
+                </l>
+              </lg>
+            </div>
+            
+            <div>
+              <head>
+                II
+              </head>
+              
+              <lg>
+                <l>
+                  So flies and blows the dream that haunts us when we wake
+                </l>
+                <l>
+                  to 
+                  <seg xml:id="PKP-1-12-46-meta1">
+                    the
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-46-meta1">
+                    <subst change="#B" facs="PKP-1-12-46-3 PKP-1-12-46-4">
+                      <del/>
+                      <add>
+                        <desc>
+                          [deletion considered]
+                        </desc>
+                      </add>
+                    </subst>
+                  </metamark> 
+                  unreality of 
+                  <seg xml:id="PKP-1-12-46-meta2">
+                    <subst change="#B">
+                      <del facs="PKP-1-12-46-1">
+                        the
+                      </del>
+                      <add facs="PKP-1-12-46-2"/>
+                    </subst>
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-46-meta2">
+                    <seg xml:id="PKP-1-12-46-meta3">
+                      <subst change="#B" facs="PKP-1-12-46-3 PKP-1-12-46-5">
+                        <del/>
+                        <add>
+                          [deletion considered]
+                        </add>
+                      </subst>
+                      </seg>
+                    <metamark function="confirmation" target="#PKP-1-12-46-meta3">
+                      <subst change="#E">
+                        <del>
+                          <subst change="#C" facs="PKP-1-12-46-5a PKP-1-12-46-5b">
+                            <del/>
+                            <add>
+                              <desc>
+                                [confirmation]
+                              </desc>
+                            </add>
+                          </subst>
+                        </del>
+                        <add facs="PKP-1-12-46-5c">
+                          <desc>
+                            [confirmation]
+                          </desc>
+                        </add>
+                      </subst>
+                    </metamark>
+                  </metamark> 
+                  bright day.
+                </l>
+               <l>
+                  <seg xml:id="PKP-1-12-46-meta4">
+                    the
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-46-meta4">
+                    <subst change="#B" facs="PKP-1-12-46-6 PKP-1-12-46-7">
+                      <del/>
+                      <add>
+                        <desc>
+                          [deletion considered]
+                        </desc>
+                      </add>
+                    </subst>
+                  </metamark> 
+                 far thing almost sensed by 
+                  <seg xml:id="PKP-1-12-46-meta5">
+                    the
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-46-meta5">
+                    <subst change="#B" facs="PKP-1-12-46-6 PKP-1-12-46-8">
+                      <del/>
+                      <add>
+                        <desc>
+                          [deletion considered]
+                        </desc>
+                      </add>
+                    </subst>
+                  </metamark> 
+                 still skin
+                </l>
+                <l>
+                  and then 
+                  <seg xml:id="PKP-1-12-46-meta6">
+                    the
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-46-meta6">
+                    <subst change="#B" facs="PKP-1-12-46-9">
+                      <del/>
+                      <add>
+                        <desc>
+                          [deletion considered]
+                        </desc>
+                      </add>
+                    </subst>
+                  </metamark> 
+                  focus lost 
+                  <seg xml:id="PKP-1-12-46-meta7">
+                    <subst change="#B">
+                      <del facs="PKP-1-12-46-10"> 
+                        and
+                      </del>
+                      <add facs="PKP-1-12-46-11">
+                        ,
+                      </add>
+                    </subst>
+                    </seg>
+                    <metamark function="confirmation" target="#PKP-1-12-46-meta7">
+                      <subst change="#E" facs="PKP-1-12-46-12">
+                        <del/>
+                        <add>
+                          <desc>
+                            [confirmation]
+                          </desc>
+                        </add>
+                      </subst>
+                    </metamark> 
+                  <seg xml:id="PKP-1-12-46-meta8">
+                    the
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-46-meta8">
+                    <subst change="#B" facs="PKP-1-12-46-13">
+                      <del/>
+                      <add>
+                        <desc>
+                          [deletion considered]
+                        </desc>
+                      </add>
+                    </subst>
+                  </metamark>  mountain gone.
+                </l>
+                <l>
+                  This is the loss that haunts our daylight hours
+                </l>
+                <l>
+                  leaving us parched at nightfall
+                </l>
+                <l>
+                  blowing like last year’s leaves
+                </l>
+                <l>
+                  sibilant on 
+                  <subst change="#D">
+                    <del facs="PKP-1-12-46-15">
+                      the 
+                    </del>
+                    <add facs="PKP-1-12-46-16"/>
+                  </subst> 
+                  blossoming trees
+                </l>
+                <!--<l>
+                  <seg xml:id="PKP-1-12-46-meta8">
+                    and thirsty for the dream of 
+                  <seg xml:id="PKP-1-12-46-meta9">
+                    the
+                    </seg>
+                     <metamark function="cancellation" target="#PKP-1-12-46-meta9">
+                       <subst change="#E" facs="PKP-1-12-46-21 PKP-1-12-46-22">
+                         <del/>
+                         <add>
+                           <desc>
+                            cancelled
+                           </desc>
+                         </add>
+                       </subst>
+                     </metamark>
+                    mountain
+                  </seg>
+                  <metamark function="alternative_considered" target="#PKP-1-12-46-meta8">
+                    <subst change="#B" facs="PKP-1-12-46-17 PKP-1-12-46-18 PKP-1-12-46-19 PKP-1-12-46-20">
+                      <del/>
+                      <add>
+                        <desc>
+                          alternative considered
+                        </desc>
+                      </add>
+                    </subst>
+                  </metamark>
+                </l>-->
+                <l>
+                  more 
+                  <subst change="#A" facs="PKP-1-12-46-23">
+                    <del instant="true">
+                      realy th
+                    </del>
+                <add/>
+                </subst>
+                  than any event:
+                </l>
+                <l>
+                  more real than strangers passing on the street
+                </l>
+                <l>
+                  through a city’s architecture white as bone
+                </l>
+                <l>
+                  or the immediate companion.
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  But sometimes there is one
+                </l>
+                <l>
+                  raw with the dream of flying:
+                </l>
+                <l>
+                  <q rend="dq" xml:id="PKP-1-12-44-q1">
+                    I, a bird,
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q2">
+                    landed that very instant
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q3">
+                    and complete
+                    <choice>
+                      <orig>
+                        --
+                      </orig>
+                      <reg>
+                        —
+                      </reg>
+                    </choice>
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q4">
+                    as if I had drawn a circle in my flight
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q5">
+                    and filled its shape
+                    <choice>
+                      <orig>
+                        --
+                      </orig>
+                      <reg>
+                        —
+                      </reg>
+                    </choice>
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q6">
+                    find air a perfect fit.
+                  </q>
+                </l>
+                
+                <pb n="PKP-1-12-47"/>
+                
+                <l>
+                  <q xml:id="PKP-1-12-44-q7">
+                    But this my grief,
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q8">
+                    that with the next tentative lift
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q9">
+                    of my indescribable wings
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q10">
+                    the ceiling looms
+                  </q>
+                </l>
+                <l>
+                  <q rend="dq" xml:id="PKP-1-12-44-q11">
+                    heavy as the tomb.
+                  </q>
+                  <join target="#PKP-1-12-44-q1 #PKP-1-12-44-q2 #PKP-1-12-44-q3 #PKP-1-12-44-q4 #PKP-1-12-44-q5 #PKP-1-12-44-q6 #PKP-1-12-44-q7 #PKP-1-12-44-q8 #PKP-1-12-44-q9 #PKP-1-12-44-q10 #PKP-1-12-44-q11"/>
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  <q rend="dq" xml:id="PKP-1-12-44-q12">
+                    Must my most exquisite and private dream
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q13">
+                    remain unleavened?
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q14">
+                    Must this flipped and spiining coing that sun
+                 </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q15">
+                    could gild and make miraculous become
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q16">
+                    so swiftly pitiful?
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q17">
+                    The vision of the flight this imitates
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q18">
+                    burns brightly in my head as if a star
+                  </q>
+                </l>
+                <l>
+                  <q xml:id="PKP-1-12-44-q19">
+                    rushed down to touch me where I stub against
+                  </q>
+                </l>
+                <l>
+                  <q rend="dq" xml:id="PKP-1-12-44-q20">
+                    what must forever be my underground.
+                  </q>
+                  <join target="#PKP-1-12-44-q12 #PKP-1-12-44-q13 #PKP-1-12-44-q14 #PKP-1-12-44-q15 #PKP-1-12-44-q16 #PKP-1-12-44-q17 #PKP-1-12-44-q18 #PKP-1-12-44-q19 #PKP-1-12-44-q20"/>
+                </l>
+              </lg>
+            </div>
+            
+            <div>
+              <head>
+                III
+                </head>
+                
+              <lg>
+                <l>
+                  These are the dreams that haunt us,
+                </l>
+                <l>
+                  these the fears.
+                </l>
+                <l>
+                  Will the grey weather wake us,
+                </l>
+                <l>
+                  toss us twice in the terrible night to tell us
+                </l>
+                <l>
+                  the flight is cancelled
+                </l>
+                <l>
+                  and the mountain lost?
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  O, then cry Ararat!
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  The dove believed
+                </l>
+                <l>
+                  in her sweet wings and in the rising peak
+                </l>
+                  
+                  <pb n="PKP-1-12-48"/>
+                
+                <l>
+                with such a washed and easy innocence
+                </l>
+                <l>
+                  that she found 
+                  <seg xml:id="PKP-1-12-48-meta1">
+                    rest on
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-48-meta1">
+                    <subst change="#E">
+                      <del>
+                        <subst change="#C" facs="PKP-1-12-48-1 PKP-1-12-48-2 PKP-1-12-48-3">
+                          <del/>
+                          <add>
+                            <desc>
+                             [deletion considered]
+                            </desc>
+                          </add>
+                        </subst>
+                      </del>
+                      <add facs="PKP-1-12-48-1 PKP-1-12-48-4 PKP-1-12-48-5"/>
+                    </subst>
+                  </metamark>
+                  land for 
+                  <seg xml:id="PKP-1-12-48-meta2">
+                    the
+                  </seg>
+                  <metamark function="deletion_considered" target="#PKP-1-12-48-meta2">
+                    <subst change="#E">
+                      <del>
+                        <subst change="#C" facs="PKP-1-12-48-1 PKP-1-12-48-6 PKP-1-12-48-7">
+                          <del/>
+                          <add>
+                            <desc>
+                             [deletion considered]
+                            </desc>
+                          </add>
+                        </subst>
+                      </del>
+                      <add facs="PKP-1-12-48-8"/>
+                    </subst>
+                  </metamark> 
+                  sole of 
+                  <seg xml:id="PKP-1-12-48-meta3">
+                    her
+                  </seg> 
+                  <metamark function="deletion_considered" target="#PKP-1-12-48-meta3">
+                    <subst change="#E">
+                      <del>
+                        <subst change="#C" facs="PKP-1-12-48-1 PKP-1-12-48-9 PKP-1-12-48-10">
+                          <del/>
+                          <add>
+                            <desc>
+                             [deletion considered]
+                            </desc>
+                          </add>
+                        </subst>
+                      </del>
+                      <add facs="PKP-1-12-48-11"/>
+                    </subst>
+                  </metamark>
+                  foot
+                </l>
+                <l>
+                  and, silver, circled back,
+                </l>
+                <l>
+                  a green twig in her beak.
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  The leaves that make the tree by day,
+                </l>
+                <l>
+                  the green twig the dove saw fit
+                </l>
+                <l>
+                  to lift across a world of water
+                </l>
+                <l>
+                  break in a wave about our feet.
+                </l>
+                <l>
+                  The bird in the thicket with his whistle
+                </l>
+                <l>
+                  the crystal lizard in the grass
+                </l>
+                <l>
+                  the star and shell
+                </l>
+                <l>
+                  tassel and bell
+                </l>
+                <l>
+                  of wild flowers blowing where we pass,
+                </l>
+                <l>
+                  this flora-fauna flotsam, pick and touch
+                </l>
+                <l>
+                  requires the focus of the total I.
+                </l>
+              </lg>
+              
+              <lg>
+                <l>
+                  
+                A single leaf can block a mountainside;
+                </l>
+                <l>
+                  all Ararat be conjured by a leaf.
+                </l>
+              </lg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+    <back>
+      <pb n="PKP-1-12-49"/>
+      <div>
+        <list>
+          <head>
+            Glossary of Australian 
+            <subst change="#A" facs="PKP-1-12-49-1">
+              <del instant="true">
+                Ter
+              </del>
+              <add/>
+            </subst>
+            Terms
+            <choice>
+              <orig>
+                .
+              </orig>
+              <reg/>
+            </choice>
+          </head>
+          
+          <!--<msDesc>
+            <msIdentifier>
+              <msName>
+                PKP-1-12:49 
+              </msName>
+            </msIdentifier>
+            <physDesc>
+              <handDesc>
+                <handNote corresp="#ts"/>
+              </handDesc>
+            </physDesc>
+          </msDesc>-->
+          
+          <item>
+            <subst change="#A">
+              <del instant="true" facs="PKP-1-12-49-2">
+                Bull
+              </del>
+              <add facs="PKP-1-12-49-3"/>
+            </subst>
+          </item>
+          
+          <item>
+            <label>
+              bull roarer
+            </label>
+            <choice>
+              <orig>
+                -
+              </orig>
+              <reg/>
+            </choice>
+            a thin blade of wood which makes a loud thrumming 
+            <lb/>
+            sound when whirled on a cord. Its use in aborigine 
+            <lb/>
+            ceremonies warns off women and the uninitiated.
+          </item>
+          
+          <item>
+            <label>
+              dilly bag
+            </label>
+            <choice>
+              <orig>
+                -
+              </orig>
+              <reg/>
+            </choice>
+            shopping bag; originally an aborigine’s bag in which 
+            <lb/>
+            <subst change="#A" facs="PKP-1-12-49-4">
+              <del instant="true">
+                b
+              </del>
+              <add/>
+            </subst>
+            tribal treasures were kept.
+          </item>
+          
+          <item>
+            <label>
+              goanna
+            </label>
+            <choice>
+              <orig>
+                -
+              </orig>
+              <reg/>
+            </choice>
+            a large lizard
+          </item>
+          
+          <item>
+            <label>
+              point a bone
+            </label>
+            <choice>
+              <orig>
+                -
+              </orig>
+              <reg/>
+            </choice>
+            aboriginal projective magic. A prepared human or 
+            <lb/>
+            kangaroo bone is pointed by a sorcerer at an intended 
+            <lb/>
+            victim (who may be miles away) to bring about his death.
+          </item>
+          
+          <item>
+            <label>
+              wattle
+            </label>
+            <choice>
+              <orig>
+                -
+              </orig>
+              <reg/>
+            </choice>
+            mimosa
+          </item>
+        
+          <item>
+            <label>
+              willy willy
+            </label>
+            <choice>
+              <orig>
+                -
+              </orig>
+              <reg/>
+            </choice>
+            whirlwind.
+          </item>
+        </list>
+      </div>
+    </back>
+  </text>
+</TEI>

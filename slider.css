@@ -1,0 +1,41 @@
+.sliderSpacer, .sliderChunk
+{
+    height: 2.75ex;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;    
+}
+
+.sliderSpacer
+{
+    background-color: #DFDFDF;
+    width: 4ex;
+}
+
+.sliderChunk
+{
+    width: 10ex;
+    cursor: pointer;
+}
+
+.leftHandle, .rightHandle, .centerHandle 
+{ 
+    height: 4.5ex;
+    display: block; 
+    position: absolute;
+    cursor: move;
+}
+
+.centerHandle
+{ 
+    background-color: #BFBFBF;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+.leftHandle, .rightHandle
+{
+    width: 1.5ex;
+    background-color: #BFBFBF;
+}

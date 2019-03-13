@@ -1,0 +1,241 @@
+<style xmlns="http://www.w3.org/1999/xhtml" type="text/css">
+            
+            html, body { height:100%; width:100%; margin:0; padding:0 }
+            
+            body                                { font-family:calibri; font-size:1em }
+            
+            .showLayer                          { display:none }
+
+            .bracketNormal, .bracketCorrection  { display:none; font-weight:bold }
+            .bracketNormal                      { color:#DD0000 }
+            .bracketCorrection                  { color:#DD0000 } /* TODO: put back to #3333FF if we ever go back to brackets */
+            
+            input[type=button]                  { border:none }
+            
+            .sicText                            { cursor:default }
+            .recteText                          { color:#DD0000 }
+            
+            .div                                { margin-top:4ex }
+            .lg                                 { margin-top:2ex }
+            .para                               { margin-top:2ex }
+            .item                               { margin-top:1.5ex; margin-bottom:1.5ex }
+            .line                               { }
+
+            .passageBracket                     { color:#DD0000 }
+            
+        </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="ShowLayer">
+                .showLayerA1 { }
+            
+                .showLayerA2 { }
+            
+                .showLayerB1 { }
+            
+                .showLayerB2 { }
+            
+                .showLayerC1 { }
+            
+                .showLayerD1 { }
+            
+                .showLayerE1 { }
+            
+                .showLayerF1 { }
+            
+                .showLayerG1 { }
+            </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="SessionColor">
+                .sessionAColor { background-color:#FFBFBF }
+            
+                .sessionBColor { background-color:#FFBF7F }
+            
+                .sessionCColor { background-color:#FFFF7F }
+            
+                .sessionDColor { background-color:#7FFF7F }
+            
+                .sessionEColor { background-color:#BFBFFF }
+            
+                .sessionFColor { background-color:#CF8FFF }
+            
+                .sessionGColor { background-color:#CFCFCF }
+            </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="MultiLayer">
+            .layerContainer  { display: block; margin-left:25px; spacing:0; text-indent:-25px; padding:0 }
+            .layerLabel      { display: inline-block; margin:0px; text-indent:0px; width:21px; text-align:center; color:black }
+            .layerSpacer     { display: inline; margin:0px; text-indent:0px; width:5px; text-align:center; background-color:white }
+            .layerContents   { display: inline; margin:0px; text-indent:0px }
+        </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="SingleLayer">
+            .layerContainer  { display: inline }
+            .layerLabel      { display: none }
+            .layerSpacer     { display: none }
+            .layerContents   { display: inline }
+            #substJoinBar    { display: none }                    
+        </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="ProcessMode">
+            
+            
+            .rendBold                               { font-weight:bold }
+            .rendUnderline                          { text-decoration:underline }
+            .rendItal                               { font-style:italic }
+            .rendSc                                 { font-variant:small-caps }
+            .rendallSc                              { font-variant:all-small-caps }
+            .rendCaps                               { text-transform:uppercase }
+            .rendDqOpen:before, .rendDqBoth:before  { content:"“" }
+            .rendDqClose:after, .rendDqBoth:after   { content:"”" } 
+            .rendSqOpen:before, .rendSqBoth:before  { content:"‘" }
+            .rendSqClose:after, .rendSqBoth:after   { content:"’" }
+            
+            .linePart:before                        { content:"[" attr(data-linepart-label) "]"; font-variant:small-caps; color:blue; }
+            
+            .columnBreak                            { font-variant:small-caps; color:blue; }
+            
+            .listItem                               { display:block }
+            .listItemLabel                          { display:block }
+            .listItemRef                            { display:block }
+            
+            .lineNum                                { display:none }
+            .lineNumCell                            { width:0 }
+            
+            td.lineBracketCell                      { width: 2px }
+            td.lineSpacerCell                       { width: 2px }
+            
+            table.bracketedLine                     { border-spacing: 0px 3px }
+            table.bracketedLine td.lineBracketCell  { border:solid blue 2px; border-right:none; }
+            
+            table.unbracketedLine                   { }
+            table.unbracketedLine td.lineBracketCell { border:solid transparent 2px; border-right:none; }
+
+            .bracketDelInstant                      { color:#DD0000 }
+
+            .noteType_Metamark                      { color:#DD0000 }
+            .noteType_UntargetedAuthorial           { color:#DD0000 }
+            .noteType_TargetedAuthorial             { color:#DD0000 }
+            .noteType_TargetedEditorial             { display:none }
+            .noteType_NamedEntity                   { display:none }
+
+            .processModeOn { display:inline }
+            .processModeOff { display:none }
+            .productModeOn { display:none }sc
+            .productModeOff { display:inline }
+            .readingModeOn { display:none }
+            .readingModeOff { display:inline }
+            
+        </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="ProductMode">
+            
+            .rendBold                               { font-weight:bold }
+            .rendUnderline                          { text-decoration:underline }      
+            .rendItal                               { font-style:italic }
+            .rendSc                                 { font-variant:small-caps }
+            .rendAll                              { font-variant:all-small-caps }
+            .rendCaps                               { text-transform:uppercase }
+            .rendDqOpen:before, .rendDqBoth:before  { content:"“" }
+            .rendDqClose:after, .rendDqBoth:after   { content:"”" } 
+            .rendSqOpen:before, .rendSqBoth:before  { content:"‘" }
+            .rendSqClose:after, .rendSqBoth:after   { content:"’" }
+            
+            .linePart:before                        { content:"[" attr(data-linepart-label) "]"; font-variant:small-caps; color:blue; }
+            
+            .columnBreak                            { font-variant:small-caps; color:blue; }
+            
+            .listItem                               { display:block }
+            .listItemLabel                          { display:block }
+            .listItemRef                            { display:block }
+            
+            .lineNum                                { display:inline-block }
+            .lineNumCell                            { width:4ex }
+            
+            td.lineBracketCell                      { display: none }
+            td.lineSpacerCell                       { display: none }
+
+            .bracketDelInstant                      { display:none }
+            
+            .noteType_Metamark                      { display:none }
+            .noteType_UntargetedAuthorial           { display:none }
+            .noteType_TargetedAuthorial             { color:#DD0000 }
+            .noteType_TargetedEditorial             { display:none }
+            .noteType_NamedEntity                   { display:none }
+
+            .processModeOn { display:none }
+            .processModeOff { display:inline }
+            .productModeOn { display:inline }
+            .productModeOff { display:none }
+            .readingModeOn { display:none }
+            .readingModeOff { display:inline }
+            
+        </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="ReadingMode">
+            
+            .readingItal                                    { font-style:italic }
+            .readingUnItal                                  { font-style:normal }
+            .readingDqOpen:before, .readingDqBoth:before    { content:"“" }                   
+            .readingDqClose:after, .readingDqBoth:after     { content:"”" }                    
+            .readingSqOpen:before, .readingSqBoth:before    { content:"‘" }                   
+            .readingSqClose:after, .readingSqBoth:after     { content:"’" }                    
+            .readingLargeBold                               { font-weight:bold; font-size:150% }
+            .readingBold                                    { font-weight:bold }
+            .readingUnBold                                  { font-weight:normal }
+            .readingBoldColon                               { font-weight:bold }
+            .readingBoldColon:after                         { font-weight:bold; content:":" }
+            .readingHidden                                  { display:none }
+            
+            .columnBreak                                    { display:none }
+            
+            .listItem                                       { display:table-cell; vertical-align:top;  }
+            .listItemLabel                                  { display:table-cell; vertical-align:top;  width:25ex }
+            .listItemRef                                    { display:table-cell; vertical-align:top;  width:5ex }
+            
+            .lineNum                                        { display:inline-block }
+            .lineNumCell                                    { width:4ex }
+            
+            td.lineBracketCell                              { display: none }
+            td.lineSpacerCell                               { display: none }
+
+            .bracketDelInstant                      { display:none }
+
+            .noteType_Metamark                      { display:none }
+            .noteType_UntargetedAuthorial           { display:none }
+            .noteType_TargetedAuthorial             { display:none }
+            .noteType_TargetedEditorial             { display:none }
+            .noteType_NamedEntity                   { display:none }
+
+            .passageType_TargetedAuthorial          { background-color:lightGray }
+            .passageType_TargetedEditorial          { background-color:lightGray }
+            .passageType_NamedEntity                { background-color:lightGray }
+
+            .processModeOn { display:none }
+            .processModeOff { display:inline }
+            .productModeOn { display:none }
+            .productModeOff { display:inline }
+            .readingModeOn { display:inline }
+            .readingModeOff { display:none }
+            
+        </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="LineBreak">
+            div.lineBreak { display:inline }
+        </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="Highlights"></style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="JoinHighlightSessions">
+                .joinMarkerSession_A { }
+            
+                .joinMarkerSession_B { }
+            
+                .joinMarkerSession_C { }
+            
+                .joinMarkerSession_D { }
+            
+                .joinMarkerSession_E { }
+            
+                .joinMarkerSession_F { }
+            
+                .joinMarkerSession_G { }
+            </style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="JoinHighlights"></style><style xmlns="http://www.w3.org/1999/xhtml" type="text/css" id="PolygonHighlights">
+            .polygonPage { visibility:hidden }
+            
+            .polygonPageShow { visibility:visible }
+            
+            .polygonPath { stroke:none; fill:none }
+            
+            .polygonPageShowHint .polygonPath { fill:#DD0000; fill-opacity:0.25 }
+            
+            .polygonInsert { stroke:#DD0000; stroke-width:3; stroke-dasharray:3,3; fill:none } 
+            .polygonChange { stroke:#DD0000; stroke-width:3; fill:none } 
+            .polygonRemove { stroke:#DD0000; stroke-width:3; fill:none } 
+            
+        </style><style xmlns="http://www.w3.org/1999/xhtml">
+            .ui-widget, .ui-tooltip-content {
+            font-family: calibri;
+            font-size: 1em;            
+            }
+            
+        </style>
