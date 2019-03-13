@@ -9,22 +9,22 @@
     expand-text="yes"
     version="3.0">
 
-    <xsl:include href="sessionlayer.xsl"/>
-    <xsl:include href="deladd.xsl"/>
-    <xsl:include href="util.xsl"/>
-    <xsl:include href="substjoin.xsl"/>
-    <xsl:include href="choice.xsl"/>
-    <xsl:include href="emph.xsl"/>
-    <xsl:include href="text.xsl"/>
-    <xsl:include href="polygons.xsl"/>
-    <xsl:include href="subst.xsl"/>
-    <xsl:include href="cb.xsl"/>
-    <xsl:include href="list.xsl"/>
-    <xsl:include href="line.xsl"/>
-    <xsl:include href="para.xsl"/>
-    <xsl:include href="pb.xsl"/>
-    <xsl:include href="note.xsl"/>
-    <xsl:include href="images.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/sessionlayer.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/deladd.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/util.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/substjoin.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/choice.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/emph.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/text.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/polygons.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/subst.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/cb.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/list.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/line.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/para.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/pb.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/note.xsl"/>
+    <xsl:include href="https://raw.githubusercontent.com/ilovan/DPR-test/master/images.xsl"/>
     
     <xsl:output method="xhtml" indent="no" encoding="UTF-8" omit-xml-declaration="yes"/>
     
@@ -278,40 +278,40 @@
     <xsl:template name="outputLinks">
         
         <!-- jquery -->
-        <script src="jquery/js/jquery-1.9.1.js"/>
-        <script src="jquery/js/jquery-ui-1.10.3.custom.js"/>
+        <script src="https://raw.githubusercontent.com/ilovan/DPR-test/master/jquery/js/jquery-1.9.1.js"/>
+        <script src="https://raw.githubusercontent.com/ilovan/DPR-test/master/jquery/js/jquery-ui-1.10.3.custom.js"/>
         <script src="jquery.wrap-svg\jquery.wrap-svg.js"/>
         <script>
             jQuery.noConflict();
         </script>
-        <link rel="stylesheet" href="jquery\css\smoothness\jquery-ui-1.10.3.custom.css"/>
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/ilovan/DPR-test/master/jquery\css\smoothness\jquery-ui-1.10.3.custom.css"/>
 
         <!-- underscore -->
-        <script src="underscore/underscore.js"/>
+        <script src="https://raw.githubusercontent.com/ilovan/DPR-test/master/underscore/underscore.js"/>
         
         <!-- main js file -->
-        <script type="text/javascript" src="dpr.js"/>
-        <script type="text/javascript" src="stylesheet.js"/>
-        <script type="text/javascript" src="polygons.js"/>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/ilovan/DPR-test/master/dpr.js"/>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/ilovan/DPR-test/master/stylesheet.js"/>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/ilovan/DPR-test/master/polygons.js"/>
         
         <!-- image viewer control -->
-        <script src="zoom_assets/jquery.smoothZoom.js"/>
-        <link rel="stylesheet" href="imagectl.css"/>
+        <script src="https://raw.githubusercontent.com/ilovan/DPR-test/master/zoom_assets/jquery.smoothZoom.js"/>
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/ilovan/DPR-test/master/imagectl.css"/>
         
         <!-- page control -->
-        <script src="pagectl.js"/>
-        <link rel="stylesheet" href="pagectl.css"/>
+        <script src="https://raw.githubusercontent.com/ilovan/DPR-test/master/pagectl.js"/>
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/ilovan/DPR-test/master/pagectl.css"/>
         
         <!-- slider control -->
-        <script type="text/javascript" src="slider.js"/>
-        <link rel="stylesheet" href="slider.css"/>                        
+        <script type="text/javascript" src="https://raw.githubusercontent.com/ilovan/DPR-test/master/slider.js"/>
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/ilovan/DPR-test/master/slider.css"/>                        
         
         <!-- zoom control -->
-        <script type="text/javascript" src="zoomctl.js"/>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/ilovan/DPR-test/master/zoomctl.js"/>
         
         <!-- substJoin highlighting -->
-        <script src="substjoin.js"/>
-        <link rel="stylesheet" href="join.css"/>
+        <script src="https://raw.githubusercontent.com/ilovan/DPR-test/master/substjoin.js"/>
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/ilovan/DPR-test/master/join.css"/>
         
     </xsl:template>
     
